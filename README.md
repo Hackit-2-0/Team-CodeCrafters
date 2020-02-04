@@ -5,12 +5,13 @@
 
 ## Team name : *CodeCrafters* :sunglasses:
 
-  - [Problem Statement](#problem)
-  - [Need of the Project](#need)
-  - [How ML Helps Us?](#ml)
+  - [Problem-Statement](#Problem-Statement)
+  - [Need of the Project](#Need-of-the-Project)
+  - [How ML Helps Us?](#How-ML-Helps-Us?)
   - [Tasks](#task)
-  - [System Architecture](#system)
-  - [Tech stack](#tech)
+  - [System Architecture](#System-Architecture)
+  - [Tech stack](#Tech-stack)
+  - [Folder Structure](#Folder-Structure)
   - [Contributors](#contribution)
 
 ## Problem Statement
@@ -63,6 +64,31 @@ Machines are better at certain things such as:
 :three: **ML Model** : Scikit-learn, nltk, ml5.js(npm module) .
 
 :four: **Database and Storage** : Firebase Cloud Firestore .
+
+**Clone git repository**
+
+> Git clone "[https://github.com/Hackit-2-0/Team-CodeCrafters](https://github.com/Hackit-2-0/Team-CodeCrafters)"
+
+## Folder Structure
+
+:file_folder: Team-CodeCrafters :
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:file_folder: assets 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:file_folder: Classificatioons
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:file_folder: clientform
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:file_folder: server
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:file_folder: github-finder 
+
+**Render React UI**
+
+> $ cd clientform
+
+> $ npm start 
+
+**Start Server**
+
+> $ cd server
+
+> $ node app.js
 
 ### `npm start`
 
