@@ -1,0 +1,3543 @@
+
+[
+    {
+      "aboutme": "I am a very fun living guy . Interested in earning money no matter what is the work.",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-27T17:22:51.282Z",
+      "experience": [
+        
+      ],
+      "id": "5748826bb1d90e742c140be4",
+      "link": null,
+      "skills": [
+        "General Skills:Entrepreneurial",
+        "Technical Skills:Computer Hardware",
+        "Marketing:Advertising",
+        "Marketing:Social Media Advertising",
+        "Hospitality:Event Management"
+      ],
+      "updatedAt": "2017-02-11T06:11:31.414Z",
+      "user": "57488161b1d90e742c140bd7",
+      "newskills": [
+        {
+          "name": "Entrepreneurial",
+          "rating": "5",
+          "category": "General Skills",
+          "iconurl": null
+        },
+        {
+          "rating": "2",
+          "category": "Technical Skills",
+          "iconurl": null,
+          "name": "Computer Hardware"
+        },
+        {
+          "iconurl": null,
+          "name": "Advertising",
+          "rating": "4",
+          "category": "Marketing"
+        },
+        {
+          "category": "Marketing",
+          "iconurl": null,
+          "name": "Social Media Advertising",
+          "rating": "4"
+        },
+        {
+          "category": "Hospitality",
+          "iconurl": null,
+          "name": "Event Management",
+          "rating": "5"
+        },
+        {
+          "name": "Marketing",
+          "rating": "5",
+          "category": "Marketing",
+          "iconurl": null
+        },
+        {
+          "category": "Marketing",
+          "iconurl": null,
+          "name": "Sales",
+          "rating": "5"
+        },
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Communication Skill",
+          "rating": "4"
+        },
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Leadership",
+          "rating": "4"
+        },
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Quantitative Aptitude",
+          "rating": "4"
+        },
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Logical reasoning",
+          "rating": "4"
+        },
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Team Player",
+          "rating": "4"
+        },
+        {
+          "rating": "3",
+          "category": "Finance",
+          "iconurl": null,
+          "name": "Stock Market"
+        },
+        {
+          "category": "Other",
+          "iconurl": null,
+          "name": "Data Entry",
+          "rating": "3"
+        },
+        {
+          "category": "Other",
+          "iconurl": null,
+          "name": "Import and Export",
+          "rating": "4"
+        },
+        {
+          "category": "Hospitality",
+          "iconurl": null,
+          "name": "Hotel Management",
+          "rating": "4"
+        },
+        {
+          "category": "Legal",
+          "iconurl": null,
+          "name": "Business Law",
+          "rating": "3"
+        }
+      ],
+      "hint": "Verify your student status to get started with frapp!",
+      "score": 4.25,
+      "education": [
+        {
+          "marks": "53.60",
+          "markstype": "%",
+          "name": "S.M.Choksey High School And Jr College",
+          "startyear": "2014",
+          "type": "junior_college",
+          "currentlyPursuing": false,
+          "degree": "HSC/Science",
+          "endyear": "2016"
+        },
+        {
+          "startyear": null,
+          "type": "school",
+          "currentlyPursuing": false,
+          "degree": "SSC",
+          "endyear": "2014",
+          "marks": "83.60",
+          "markstype": "%",
+          "name": "Mahaveer English Medium School"
+        }
+      ],
+      "hobbies": [
+        "Cricket",
+        "Music",
+        "Drums",
+        "Nightlife"
+      ],
+      "newexperience": [
+        {
+          "title": "Online Shopping Site Founder",
+          "to": "Jan 2017",
+          "company": "Shopping Station",
+          "currentlyworking": true,
+          "description": "My Own online Shopping Central",
+          "from": "Jun 2016"
+        }
+      ],
+      "projects": [
+        
+      ],
+      "sociallinks": [
+        {
+          "color": null,
+          "icon": null,
+          "prefix": null,
+          "socialplatform": "instagram",
+          "url": "instagram.com/aakashm99"
+        }
+      ]
+    },
+    {
+      "aboutme": "Have just completed post graduation and willing to work as soon as possible.",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-27T17:57:28.475Z",
+      "experience": [
+        
+      ],
+      "id": "57488a88b1d90e742c140c23",
+      "link": null,
+      "skills": [
+        
+      ],
+      "updatedAt": "2016-05-27T17:57:37.136Z",
+      "user": "57488545b1d90e742c140bf8",
+      "score": 2.75,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": " ",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-27T18:33:43.671Z",
+      "experience": [
+        
+      ],
+      "id": "57489307b1d90e742c140c6e",
+      "link": null,
+      "skills": [
+        "General Skills:Team Player",
+        "General Skills:Entrepreneurial",
+        "General Skills:Leadership",
+        "Technical Skills:Java",
+        "Technical Skills:Front End Development"
+      ],
+      "updatedAt": "2017-03-10T10:55:35.401Z",
+      "user": "5734c4763c7c6ceb40b87d6e",
+      "newskills": [
+        {
+          "rating": 3,
+          "category": "General Skills",
+          "name": "Team Player"
+        },
+        {
+          "category": "General Skills",
+          "name": "Entrepreneurial",
+          "rating": 3
+        },
+        {
+          "category": "General Skills",
+          "name": "Leadership",
+          "rating": 3
+        },
+        {
+          "category": "Technical Skills",
+          "name": "Java",
+          "rating": 3
+        },
+        {
+          "category": "Technical Skills",
+          "name": "Front End Development",
+          "rating": 3
+        }
+      ],
+      "college": "564981b42521d4d4078fc376",
+      "score": 5.75,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "I love photography i am good at it, i love pc games too, travel around discover new places, studying in presidency collage, pursuing my bcom degree, done many events and promotion jobs.  ",
+      "achievements": [
+        "Ncc A certificate, yoga certificate, won many cricket tournaments, runners up in basketball, "
+      ],
+      "createdAt": "2016-05-28T07:08:16.847Z",
+      "experience": [
+        
+      ],
+      "id": "574943e0b1d90e742c140d97",
+      "link": null,
+      "skills": [
+        "General Skills:Communication Skill",
+        "Marketing:Photography",
+        "Marketing:Creativity",
+        "Office:Microsoft Office",
+        "Office:Microsoft Excel"
+      ],
+      "updatedAt": "2017-03-10T10:55:42.531Z",
+      "user": "573f2a513c7c6ceb40b886ab",
+      "newskills": [
+        {
+          "category": "General Skills",
+          "name": "Communication Skill",
+          "rating": 3
+        },
+        {
+          "category": "Marketing",
+          "name": "Photography",
+          "rating": 3
+        },
+        {
+          "category": "Marketing",
+          "name": "Creativity",
+          "rating": 3
+        },
+        {
+          "category": "Office",
+          "name": "Microsoft Office",
+          "rating": 3
+        },
+        {
+          "category": "Office",
+          "name": "Microsoft Excel",
+          "rating": 3
+        }
+      ],
+      "college": "56974743dd0ef0b11ae84d85",
+      "score": 2.75,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "\n",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-28T07:20:09.068Z",
+      "experience": [
+        
+      ],
+      "id": "574946a9b1d90e742c140d9a",
+      "link": null,
+      "skills": [
+        "General Skills:Leadership",
+        "Technical Skills:HTML",
+        "Technical Skills:CSS",
+        "Technical Skills:C++",
+        "Design Softwares:Adobe Photoshop"
+      ],
+      "updatedAt": "2017-01-11T10:34:33.359Z",
+      "user": "574248bc3c7c6ceb40b889df",
+      "newskills": [
+        {
+          "rating": 3,
+          "category": "General Skills",
+          "name": "Leadership"
+        },
+        {
+          "rating": 3,
+          "category": "Technical Skills",
+          "name": "HTML"
+        },
+        {
+          "category": "Technical Skills",
+          "name": "CSS",
+          "rating": 3
+        },
+        {
+          "name": "C++",
+          "rating": 3,
+          "category": "Technical Skills"
+        },
+        {
+          "rating": 3,
+          "category": "Design Softwares",
+          "name": "Adobe Photoshop"
+        }
+      ],
+      "score": 1.5,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "Engineering student in I.T department. In 3rd year",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-28T08:41:17.987Z",
+      "experience": [
+        
+      ],
+      "id": "574959adb1d90e742c140dd0",
+      "link": null,
+      "skills": [
+        "General Skills:Presentation Skill",
+        "Technical Skills:C++",
+        "Technical Skills:Java",
+        "Technical Skills:C",
+        "Technical Skills:HTML"
+      ],
+      "updatedAt": "2017-09-26T17:56:32.952Z",
+      "user": "566ba3ce63d380140f7b4837",
+      "newskills": [
+        {
+          "category": "General Skills",
+          "name": "Presentation Skill",
+          "rating": 3
+        },
+        {
+          "rating": 3,
+          "category": "Technical Skills",
+          "name": "C++"
+        },
+        {
+          "category": "Technical Skills",
+          "name": "Java",
+          "rating": 3
+        },
+        {
+          "category": "Technical Skills",
+          "name": "C",
+          "rating": 3
+        },
+        {
+          "category": "Technical Skills",
+          "name": "HTML",
+          "rating": 3
+        }
+      ],
+      "score": 3.75,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "In std 12th",
+      "achievements": [
+        "100 % atendence "
+      ],
+      "createdAt": "2016-05-28T16:32:40.198Z",
+      "experience": [
+        
+      ],
+      "id": "5749c828b1d90e742c140ed0",
+      "link": null,
+      "skills": [
+        "Office:MS Office"
+      ],
+      "updatedAt": "2017-01-11T10:34:33.363Z",
+      "user": "5749c66db1d90e742c140ec9",
+      "newskills": [
+        {
+          "rating": 3,
+          "category": "Office",
+          "name": "MS Office"
+        }
+      ],
+      "score": 2.75,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "Software developer\n",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-28T16:49:07.282Z",
+      "experience": [
+        
+      ],
+      "id": "5749cc03b1d90e742c140eda",
+      "link": null,
+      "skills": [
+        
+      ],
+      "updatedAt": "2016-05-28T16:49:07.282Z",
+      "user": "5749caeab1d90e742c140ed6",
+      "score": 2.25,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "Creative,programmer, addicted to games..\n",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-28T18:10:58.952Z",
+      "experience": [
+        
+      ],
+      "id": "5749df32b1d90e742c140f0c",
+      "link": null,
+      "skills": [
+        "General Skills:Logical reasoning",
+        "General Skills:Presentation Skill",
+        "Technical Skills:C",
+        "Technical Skills:C++",
+        "Other:Interior Design"
+      ],
+      "updatedAt": "2018-03-24T02:33:02.365Z",
+      "user": "57356c263c7c6ceb40b87de4",
+      "newskills": [
+        {
+          "category": "General Skills",
+          "name": "Logical reasoning",
+          "rating": 3
+        },
+        {
+          "rating": 3,
+          "category": "General Skills",
+          "name": "Presentation Skill"
+        },
+        {
+          "name": "c",
+          "rating": 3,
+          "category": "Technical Skills"
+        },
+        {
+          "rating": 3,
+          "category": "Technical Skills",
+          "name": "C++"
+        },
+        {
+          "category": "Other",
+          "name": "Interior Design",
+          "rating": 3
+        },
+        {
+          "category": "Dancer",
+          "name": "Dancing Expert",
+          "rating": 3
+        }
+      ],
+      "hint": "Verify your student status to get started with frapp!",
+      "college": "560d33c06a1e438505e44e45",
+      "score": 7.75
+    },
+    {
+      "aboutme": "I am an app developer. I am also learning graphics and animation , I am also a  freshmen student of accounting and finance. I have good communication skills and get along with people very well.",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-28T23:23:29.419Z",
+      "experience": [
+        
+      ],
+      "id": "574a2871b1d90e742c140f56",
+      "link": null,
+      "skills": [
+        "General Skills:Communication Skill",
+        "General Skills:Presentation Skill",
+        "General Skills:Leadership",
+        "Technical Skills:Android Dev",
+        "Finance:Tally"
+      ],
+      "updatedAt": "2017-01-11T10:34:33.365Z",
+      "user": "574a1fdab1d90e742c140f51",
+      "newskills": [
+        {
+          "rating": 3,
+          "category": "General Skills",
+          "name": "Communication Skill"
+        },
+        {
+          "category": "General Skills",
+          "name": "Presentation Skill",
+          "rating": 3
+        },
+        {
+          "name": "Leadership",
+          "rating": 3,
+          "category": "General Skills"
+        },
+        {
+          "rating": 3,
+          "category": "Technical Skills",
+          "name": "Android Dev"
+        },
+        {
+          "name": "Tally",
+          "rating": 3,
+          "category": "Finance"
+        }
+      ],
+      "score": 3.25,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "I know English and Hindi language.  I can cook Indian food.  I know C language as I m in First year engineering.  \n😃",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-29T05:27:44.218Z",
+      "experience": [
+        
+      ],
+      "id": "574a7dd0b1d90e742c140f96",
+      "link": null,
+      "skills": [
+        "General Skills:Analytical Skills",
+        "Technical Skills:C",
+        "Marketing:Photography",
+        "Office:Microsoft Office",
+        "Office:Powerpoint"
+      ],
+      "updatedAt": "2017-02-21T22:34:33.412Z",
+      "user": "570bcc6f2f39f186053901bd",
+      "newskills": [
+        {
+          "category": "General Skills",
+          "name": "Analytical Skills",
+          "rating": 3
+        },
+        {
+          "name": "C",
+          "rating": 3,
+          "category": "Technical Skills"
+        },
+        {
+          "name": "Photography",
+          "rating": 3,
+          "category": "Marketing"
+        },
+        {
+          "rating": 3,
+          "category": "Office",
+          "name": "Microsoft Office"
+        },
+        {
+          "rating": 3,
+          "category": "Office",
+          "name": "Powerpoint"
+        }
+      ],
+      "score": 2.75,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "I'm an engineering student..Have a lot of interest in new things..I love exploring things.",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-29T07:34:53.858Z",
+      "experience": [
+        
+      ],
+      "id": "574a9b9db1d90e742c140fed",
+      "link": null,
+      "skills": [
+        "Technical Skills:C",
+        "Marketing:Advertising",
+        "Office:Microsoft Office",
+        "Office:Powerpoint",
+        "Design Softwares:Event Management"
+      ],
+      "updatedAt": "2017-12-07T13:15:48.367Z",
+      "user": "566da3d863d380140f7b49d8",
+      "newskills": [
+        {
+          "category": "Technical Skills",
+          "iconurl": null,
+          "name": "C",
+          "rating": "3"
+        },
+        {
+          "category": "Marketing",
+          "iconurl": null,
+          "name": "Advertising",
+          "rating": "3"
+        },
+        {
+          "category": "Office",
+          "iconurl": null,
+          "name": "Microsoft Office",
+          "rating": "5"
+        },
+        {
+          "category": "Office",
+          "iconurl": null,
+          "name": "Powerpoint",
+          "rating": "3"
+        },
+        {
+          "category": "Design Softwares",
+          "iconurl": null,
+          "name": "Event Management",
+          "rating": "3"
+        },
+        {
+          "category": "Hospitality",
+          "iconurl": null,
+          "name": "Event Management",
+          "rating": "5"
+        },
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Communication Skill",
+          "rating": "5"
+        },
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Presentation Skill",
+          "rating": "5"
+        },
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Leadership",
+          "rating": "4"
+        },
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Entrepreneurial",
+          "rating": "5"
+        },
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Negotiation Skills",
+          "rating": "5"
+        },
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Logical reasoning",
+          "rating": "5"
+        },
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Team Player",
+          "rating": "5"
+        }
+      ],
+      "hint": "Verify your student status to get started with frapp!",
+      "score": 3.75,
+      "education": [
+        {
+          "currentlyPursuing": true,
+          "degree": "Bachelor of Engineering (BE)",
+          "endyear": null,
+          "marks": "72",
+          "markstype": "%",
+          "name": "Cmrit",
+          "startyear": "2015",
+          "type": "degree"
+        }
+      ],
+      "hobbies": [
+        "Football",
+        "Stamp collection",
+        "Watching News"
+      ],
+      "newexperience": [
+        
+      ],
+      "projects": [
+        
+      ],
+      "sociallinks": [
+        
+      ],
+      "college": "56a7a3d87b6e9e57048a4f34",
+      "privacy": false
+    },
+    {
+      "aboutme": "I'm a down to earth and a hard working guy. Once I start a working on anything I do not quit. I like perfection and make it a point that my work is absolutely spot on.",
+      "achievements": [
+        "Organized a Dj night in college and made a profit of 1.4 lakhs to HUD HUD cyclone funds",
+        "School cricket team",
+        "School football team"
+      ],
+      "createdAt": "2016-05-29T20:18:25.975Z",
+      "experience": [
+        
+      ],
+      "id": "574b4e91b1d90e742c14116d",
+      "link": null,
+      "skills": [
+        "General Skills:Leadership",
+        "General Skills:Communication Skill",
+        "General Skills:Negotiation Skills",
+        "General Skills:Team Player",
+        "Office:Microsoft Word"
+      ],
+      "updatedAt": "2017-10-22T07:50:19.886Z",
+      "user": "574b4a80b1d90e742c141168",
+      "newskills": [
+        {
+          "category": "General Skills",
+          "name": "Leadership",
+          "rating": 3
+        },
+        {
+          "category": "General Skills",
+          "name": "Communication Skill",
+          "rating": 3
+        },
+        {
+          "name": "Negotiation Skills",
+          "rating": 3,
+          "category": "General Skills"
+        },
+        {
+          "category": "General Skills",
+          "name": "Team Player",
+          "rating": 3
+        },
+        {
+          "category": "Office",
+          "name": "Microsoft Word",
+          "rating": 3
+        }
+      ],
+      "college": "570cbab72f39f186053902ab",
+      "score": 2.75,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "A trained Singer. Well To be Frank, I am still  being Trained. Love to speak to enthusiastic people. Even though I am financially Good, I want to earn money for myself and stand on my foot.",
+      "achievements": [
+        "Singing "
+      ],
+      "createdAt": "2016-05-30T05:01:52.783Z",
+      "experience": [
+        
+      ],
+      "id": "574bc940b1d90e742c1411c0",
+      "link": null,
+      "skills": [
+        "General Skills:Communication Skill",
+        "Design Softwares:Photo Editing",
+        "Finance:Accounting",
+        "Marketing:Content Writing"
+      ],
+      "updatedAt": "2017-03-27T01:09:02.756Z",
+      "user": "574bc652b1d90e742c1411b7",
+      "newskills": [
+        {
+          "category": "General Skills",
+          "name": "Communication Skill",
+          "rating": 3
+        },
+        {
+          "name": "Photo Editing",
+          "rating": 3,
+          "category": "Design Softwares"
+        },
+        {
+          "category": "Finance",
+          "name": "Accounting",
+          "rating": 3
+        },
+        {
+          "category": "Marketing",
+          "name": "Content Writing",
+          "rating": 3
+        }
+      ],
+      "college": "5714815d2f39f18605390a8d",
+      "score": 2.75,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "Former intern at metro shoes in the purchase and sales department",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-30T06:12:34.438Z",
+      "experience": [
+        "Worked at Metro Shoes as Intern from Apr 2016 to Jun 2016"
+      ],
+      "id": "574bd9d2b1d90e742c1411de",
+      "link": null,
+      "skills": [
+        "General Skills:Communication Skill",
+        "General Skills:Presentation Skill",
+        "Finance:Accounting",
+        "Office:Microsoft Excel"
+      ],
+      "updatedAt": "2017-01-11T10:34:55.398Z",
+      "user": "574bd8c8b1d90e742c1411d3",
+      "newskills": [
+        {
+          "category": "General Skills",
+          "name": "Communication Skill",
+          "rating": 3
+        },
+        {
+          "category": "General Skills",
+          "name": "Presentation Skill",
+          "rating": 3
+        },
+        {
+          "name": "Accounting",
+          "rating": 3,
+          "category": "Finance"
+        },
+        {
+          "category": "Office",
+          "name": "Microsoft Excel",
+          "rating": 3
+        }
+      ],
+      "newexperience": [
+        {
+          "to": "Jun 2016",
+          "company": "Metro Shoes",
+          "title": "Intern",
+          "description": "Worked at Metro Shoes as Intern from Apr 2016 to Jun 2016",
+          "from": "Apr 2016"
+        }
+      ],
+      "score": 1.5,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "You'll know! ",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-30T06:36:58.914Z",
+      "experience": [
+        "Worked at Tata Consultancy Services as Senior Associate from Jun 2012 to Jun 2016"
+      ],
+      "id": "574bdf8ab1d90e742c1411ec",
+      "link": null,
+      "skills": [
+        
+      ],
+      "updatedAt": "2018-11-27T04:22:56.782Z",
+      "user": "5739b0973c7c6ceb40b8816b",
+      "newexperience": [
+        {
+          "company": "Tata Consultancy Services",
+          "title": "Senior Associate",
+          "description": "Worked at Tata Consultancy Services as Senior Associate from Jun 2012 to Jun 2016",
+          "from": "Jun 2012",
+          "to": "Jun 2016"
+        }
+      ],
+      "college": "56652a2e2dd26354202877bb",
+      "score": 2.75,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "Experience can motivate me for more of it",
+      "achievements": [
+        "Engage deo- fresh face",
+        "Drama,dance excell",
+        "Communication skill",
+        "Event for SBI-shakti on 8th march",
+        "Visited YouTube space mumbai",
+        "Bridal shoot- modelling"
+      ],
+      "createdAt": "2016-05-31T04:29:51.977Z",
+      "experience": [
+        "Working at College bol in marketting since Jun 2016"
+      ],
+      "id": "574d133fb1d90e742c14142c",
+      "link": null,
+      "skills": [
+        "General Skills:Communication Skill",
+        "General Skills:Leadership",
+        "Office:Microsoft Excel",
+        "Other:Interior Design",
+        "Hospitality:Event Management"
+      ],
+      "updatedAt": "2017-07-27T20:51:07.840Z",
+      "user": "57488f5fb1d90e742c140c4f",
+      "newskills": [
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Communication Skill",
+          "rating": "3"
+        },
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Leadership",
+          "rating": "3"
+        },
+        {
+          "category": "Office",
+          "iconurl": null,
+          "name": "Microsoft Excel",
+          "rating": "3"
+        },
+        {
+          "category": "Other",
+          "iconurl": null,
+          "name": "Interior Design",
+          "rating": "3"
+        },
+        {
+          "category": "Hospitality",
+          "iconurl": null,
+          "name": "Event Management",
+          "rating": "3"
+        }
+      ],
+      "newexperience": [
+        {
+          "company": "College bol in marketting",
+          "currentlyworking": true,
+          "description": "Working at College bol in marketting since Jun 2016",
+          "from": "",
+          "title": "Jun 2016",
+          "to": ""
+        },
+        {
+          "company": "Ucdc",
+          "currentlyworking": false,
+          "description": "As social worker for greater experience",
+          "from": "Jun 2016",
+          "title": "Worked in ngo",
+          "to": "Mar 2017"
+        }
+      ],
+      "hint": "Verify your student status to get started with frapp!",
+      "score": 2.25,
+      "college": "587606e17c1d52c5193edc6c",
+      "education": [
+        {
+          "currentlyPursuing": true,
+          "degree": "Syba-economics",
+          "endyear": null,
+          "marks": "65",
+          "markstype": "%",
+          "name": "R.d.national College",
+          "startyear": "2017",
+          "type": "degree"
+        },
+        {
+          "currentlyPursuing": true,
+          "degree": "Digital Marketing",
+          "endyear": "2017",
+          "marks": "",
+          "markstype": "",
+          "name": "Bayside",
+          "startyear": "2017",
+          "type": "diploma"
+        }
+      ],
+      "hobbies": [
+        "Dancing",
+        "Events management"
+      ],
+      "projects": [
+        
+      ],
+      "sociallinks": [
+        {
+          "color": null,
+          "icon": null,
+          "prefix": null,
+          "socialplatform": "facebook",
+          "url": "facebook.com/salonijain"
+        },
+        {
+          "color": null,
+          "icon": null,
+          "prefix": null,
+          "socialplatform": "instagram",
+          "url": "instagram.com/salonisj"
+        },
+        {
+          "color": null,
+          "icon": null,
+          "prefix": null,
+          "socialplatform": "twitter",
+          "url": "twitter.com/saloo12sept"
+        },
+        {
+          "color": null,
+          "icon": null,
+          "prefix": null,
+          "socialplatform": "snapchat",
+          "url": "Salonisj12"
+        }
+      ]
+    },
+    {
+      "aboutme": "Hardworking ",
+      "achievements": [
+        "Hacker",
+        "Animator"
+      ],
+      "createdAt": "2016-05-28T08:32:48.519Z",
+      "experience": [
+        
+      ],
+      "id": "574957b0b1d90e742c140dc7",
+      "link": null,
+      "skills": [
+        "General Skills:Communication Skill",
+        "General Skills:Presentation Skill",
+        "Technical Skills:Ethical Hacking",
+        "Technical Skills:Android Dev",
+        "Design Softwares:Adobe Photoshop"
+      ],
+      "updatedAt": "2018-01-09T07:57:23.294Z",
+      "user": "574955f4b1d90e742c140dc4",
+      "newskills": [
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Communication Skill",
+          "rating": "4"
+        },
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Presentation Skill",
+          "rating": "4"
+        },
+        {
+          "category": "Technical Skills",
+          "iconurl": null,
+          "name": "Ethical Hacking",
+          "rating": "3"
+        },
+        {
+          "category": "Technical Skills",
+          "iconurl": null,
+          "name": "Android Dev",
+          "rating": "3"
+        },
+        {
+          "category": "Design Softwares",
+          "iconurl": null,
+          "name": "Adobe Photoshop",
+          "rating": "3"
+        }
+      ],
+      "college": "5725ce406368548605e5ef68",
+      "score": 1.5,
+      "hint": "Verify your student status to get started with frapp!",
+      "education": [
+        {
+          "currentlyPursuing": false,
+          "degree": "Master of Computer Applications (MCA)",
+          "endyear": "2017",
+          "marks": "66",
+          "markstype": "%",
+          "name": "Rnsit",
+          "startyear": "2015",
+          "type": "masters"
+        }
+      ],
+      "hobbies": [
+        
+      ],
+      "newexperience": [
+        
+      ],
+      "privacy": false,
+      "projects": [
+        
+      ],
+      "sociallinks": [
+        
+      ]
+    },
+    {
+      "aboutme": "My self Sudarshan Saxena. I'm perusing my Computer Engineering degree from Mumbai University. I'm a computer geek. Programming is my passion and is I'm my blood. Always interested in learning. I work hard in what catches my attention.",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-28T09:51:43.342Z",
+      "experience": [
+        
+      ],
+      "id": "57496a2fb1d90e742c140df0",
+      "link": null,
+      "skills": [
+        "General Skills:Leadership",
+        "General Skills:Communication Skill",
+        "General Skills:Presentation Skill",
+        "Technical Skills:C",
+        "Design Softwares:Autocad"
+      ],
+      "updatedAt": "2017-09-09T06:17:03.232Z",
+      "user": "574964d2b1d90e742c140de1",
+      "newskills": [
+        {
+          "rating": 3,
+          "category": "General Skills",
+          "name": "Leadership"
+        },
+        {
+          "category": "General Skills",
+          "name": "Communication Skill",
+          "rating": 3
+        },
+        {
+          "category": "General Skills",
+          "name": "Presentation Skill",
+          "rating": 3
+        },
+        {
+          "category": "Technical Skills",
+          "name": "C",
+          "rating": 3
+        },
+        {
+          "category": "Design Softwares",
+          "name": "Autocad",
+          "rating": 3
+        }
+      ],
+      "college": "5662858f26f9eaf9194d13b9",
+      "score": 9.5,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "My name is abhishek dangat  . I have completed my ssc from st marys high school,vashi , and hsc from icles motilal jhunwala college , in 2013 and then after i was working in a transport company . ",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-28T11:58:24.002Z",
+      "experience": [
+        
+      ],
+      "id": "574987e0b1d90e742c140e37",
+      "link": null,
+      "skills": [
+        
+      ],
+      "updatedAt": "2016-05-28T11:58:25.721Z",
+      "user": "57498693b1d90e742c140e32",
+      "score": 2.75,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "Outgoing person who is a good team player",
+      "achievements": [
+        "School and high school level awards in art competitions"
+      ],
+      "createdAt": "2016-05-28T20:01:46.276Z",
+      "experience": [
+        "Worked at Birla Sun Life Insurance Company Limited as Intern from Nov 2015 to Jan 2016"
+      ],
+      "id": "5749f92ab1d90e742c140f3f",
+      "link": null,
+      "skills": [
+        "General Skills:Communication Skill",
+        "General Skills:Team Player",
+        "Technical Skills:Networking",
+        "Finance:Accounting",
+        "Office:Microsoft Office"
+      ],
+      "updatedAt": "2018-06-24T04:28:44.159Z",
+      "user": "56f187c807a6c508372f157c",
+      "newskills": [
+        {
+          "category": "General Skills",
+          "name": "Communication Skill",
+          "rating": 3
+        },
+        {
+          "name": "Team Player",
+          "rating": 3,
+          "category": "General Skills"
+        },
+        {
+          "name": "Networking",
+          "rating": 3,
+          "category": "Technical Skills"
+        },
+        {
+          "category": "Finance",
+          "name": "Accounting",
+          "rating": 3
+        },
+        {
+          "rating": 3,
+          "category": "Office",
+          "name": "Microsoft Office"
+        }
+      ],
+      "newexperience": [
+        {
+          "from": "Nov 2015",
+          "to": "Jan 2016",
+          "company": "Birla Sun Life Insurance Company Limited",
+          "title": "Intern",
+          "description": "Worked at Birla Sun Life Insurance Company Limited as Intern from Nov 2015 to Jan 2016"
+        }
+      ],
+      "score": 4.25,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "ORACLE DATABASE ADMINISTRATOR",
+      "achievements": [
+        "Certified oracle database associates",
+        "Certified oracle sql expert"
+      ],
+      "createdAt": "2016-05-28T21:08:23.662Z",
+      "experience": [
+        
+      ],
+      "id": "574a08c7b1d90e742c140f4b",
+      "link": null,
+      "skills": [
+        "General Skills:Leadership",
+        "General Skills:Team Player",
+        "General Skills:Analytical Skills",
+        "Technical Skills:MySQL",
+        "Other:Import and Export"
+      ],
+      "updatedAt": "2017-01-11T10:34:33.364Z",
+      "user": "5749512eb1d90e742c140db7",
+      "newskills": [
+        {
+          "rating": 3,
+          "category": "General Skills",
+          "name": "Leadership"
+        },
+        {
+          "category": "General Skills",
+          "name": "Team Player",
+          "rating": 3
+        },
+        {
+          "name": "Analytical Skills",
+          "rating": 3,
+          "category": "General Skills"
+        },
+        {
+          "category": "Technical Skills",
+          "name": "MySQL",
+          "rating": 3
+        },
+        {
+          "name": "Import and Export",
+          "rating": 3,
+          "category": "Other"
+        }
+      ],
+      "score": 3.75,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "Height 5,8 ",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-28T21:15:26.179Z",
+      "experience": [
+        
+      ],
+      "id": "574a0a6eb1d90e742c140f4c",
+      "link": null,
+      "skills": [
+        
+      ],
+      "updatedAt": "2017-02-24T00:53:22.649Z",
+      "user": "56ebf01565a766d25a46d2e8",
+      "score": 1.5,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "A Textile Design Graduate from NIFT Mumbai, currently pursuing Post Graduation in Fashion Management from NIFT Kolkata, with a correspondence in Bachelors in Economics  from IGNOU.",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-29T08:04:33.447Z",
+      "experience": [
+        
+      ],
+      "id": "574aa291b1d90e742c140ffe",
+      "link": null,
+      "skills": [
+        "General Skills:Quantitative Aptitude",
+        "Design Softwares:Graphic Design",
+        "Marketing:Content Writing",
+        "Marketing:Blogger",
+        "Office:Microsoft Office"
+      ],
+      "updatedAt": "2018-11-26T18:44:36.756Z",
+      "user": "56a4ab5e7b6e9e57048a4b34",
+      "newskills": [
+        {
+          "category": "General Skills",
+          "name": "Quantitative Aptitude",
+          "rating": "4"
+        },
+        {
+          "category": "Design Softwares",
+          "name": "Graphic Design",
+          "rating": "5"
+        },
+        {
+          "category": "Marketing",
+          "name": "Content Writing",
+          "rating": "5"
+        },
+        {
+          "category": "Marketing",
+          "name": "Blogger",
+          "rating": "5"
+        },
+        {
+          "category": "Office",
+          "name": "Microsoft Office",
+          "rating": "5"
+        },
+        {
+          "category": "General Skills",
+          "name": "Communication Skill",
+          "rating": "5"
+        },
+        {
+          "category": "General Skills",
+          "name": "Presentation Skill",
+          "rating": "5"
+        },
+        {
+          "category": "General Skills",
+          "name": "Leadership",
+          "rating": "5"
+        },
+        {
+          "category": "General Skills",
+          "name": "Entrepreneurial",
+          "rating": "5"
+        },
+        {
+          "category": "General Skills",
+          "name": "HR",
+          "rating": "4"
+        },
+        {
+          "category": "General Skills",
+          "name": "Analytical Skills",
+          "rating": "5"
+        },
+        {
+          "category": "General Skills",
+          "name": "Organizational Skills",
+          "rating": "5"
+        },
+        {
+          "category": "General Skills",
+          "name": "Logical reasoning",
+          "rating": "5"
+        },
+        {
+          "category": "General Skills",
+          "name": "Research",
+          "rating": "5"
+        },
+        {
+          "category": "General Skills",
+          "name": "Team Player",
+          "rating": "5"
+        },
+        {
+          "category": "Technical Skills",
+          "name": "Wordpress",
+          "rating": "5"
+        },
+        {
+          "category": "Design Softwares",
+          "name": "Adobe Photoshop",
+          "rating": "5"
+        },
+        {
+          "category": "Design Softwares",
+          "name": "Adobe Illustrator",
+          "rating": "5"
+        },
+        {
+          "category": "Design Softwares",
+          "name": "Corel Draw",
+          "rating": "5"
+        },
+        {
+          "category": "Design Softwares",
+          "name": "InDesign",
+          "rating": "5"
+        },
+        {
+          "category": "Design Softwares",
+          "name": "Photo Editing",
+          "rating": "5"
+        },
+        {
+          "category": "Design Softwares",
+          "name": "SEO/SEM",
+          "rating": "5"
+        },
+        {
+          "category": "Design Softwares",
+          "name": "Sketch",
+          "rating": "5"
+        },
+        {
+          "category": "Marketing",
+          "name": "Photography",
+          "rating": "5"
+        },
+        {
+          "category": "Office",
+          "name": "Microsoft Excel",
+          "rating": "5"
+        },
+        {
+          "category": "Office",
+          "name": "Microsoft Word",
+          "rating": "5"
+        },
+        {
+          "category": "Office",
+          "name": "Microsoft Access",
+          "rating": "5"
+        },
+        {
+          "category": "Office",
+          "name": "Powerpoint",
+          "rating": "5"
+        },
+        {
+          "category": "Office",
+          "name": "MS Office",
+          "rating": "5"
+        },
+        {
+          "category": "Other",
+          "name": "Journalism",
+          "rating": "4"
+        },
+        {
+          "category": "Other",
+          "name": "Interior Design",
+          "rating": "5"
+        },
+        {
+          "category": "Legal",
+          "name": "Intellectual Property Rights",
+          "rating": "4"
+        }
+      ],
+      "score": 2.75,
+      "college": "55cb2c3cd7ea0e5c07c03658",
+      "hint": "Verify your student status to get started with frapp!",
+      "certificate": [
+        
+      ],
+      "education": [
+        {
+          "name": "Canossa Convent High School, Mahim",
+          "markstype": "%",
+          "endyear": "2012",
+          "currentlyPursuing": false,
+          "marks": "84",
+          "type": "school",
+          "degree": "SSC"
+        },
+        {
+          "name": "D.G.Ruparel, Matunga Road",
+          "markstype": "%",
+          "endyear": "2014",
+          "startyear": "2012",
+          "currentlyPursuing": false,
+          "marks": "51",
+          "type": "junior_college",
+          "degree": "Science"
+        },
+        {
+          "name": "NIFT Mumbai ",
+          "markstype": "CGPA/10",
+          "endyear": "2018",
+          "startyear": "2014",
+          "currentlyPursuing": false,
+          "marks": "8",
+          "type": "degree",
+          "degree": "Bachelor of Design (BDes)"
+        },
+        {
+          "name": "NIFT Kolkata ",
+          "markstype": "",
+          "endyear": "",
+          "startyear": "2018",
+          "currentlyPursuing": true,
+          "marks": "",
+          "type": "masters",
+          "degree": "Master of Fashion Management (MFM)"
+        },
+        {
+          "startyear": "2016",
+          "currentlyPursuing": false,
+          "type": "professional_courses",
+          "degree": "Fashion Clothing Technology ",
+          "endyear": "2017"
+        },
+        {
+          "startyear": "2016",
+          "currentlyPursuing": false,
+          "type": "professional_courses",
+          "degree": "Graphology",
+          "endyear": "2016"
+        },
+        {
+          "startyear": "2016",
+          "currentlyPursuing": false,
+          "type": "professional_courses",
+          "degree": "Statement Analysis ",
+          "endyear": "2016"
+        },
+        {
+          "startyear": "2016",
+          "currentlyPursuing": false,
+          "type": "professional_courses",
+          "degree": "Dream Analysis ",
+          "endyear": "2016"
+        },
+        {
+          "name": "IGNOU ",
+          "markstype": "",
+          "endyear": "",
+          "startyear": "2016",
+          "currentlyPursuing": true,
+          "marks": "",
+          "type": "degree",
+          "degree": "Bachelor of Arts (BA) (Honours)"
+        }
+      ],
+      "hobbies": [
+        
+      ],
+      "newexperience": [
+        {
+          "description": "",
+          "from": "Jun 2018",
+          "title": "Proprietor ",
+          "to": "",
+          "company": "Leha Design House",
+          "currentlyworking": true
+        },
+        {
+          "description": "",
+          "from": "Dec 2017",
+          "title": "Textile Designer ",
+          "to": "Apr 2018",
+          "company": "Grasim Industries Limited ",
+          "currentlyworking": false
+        },
+        {
+          "description": "",
+          "from": "Oct 2017",
+          "title": "Content Writer ",
+          "to": "Dec 2017",
+          "company": "Swadesi ",
+          "currentlyworking": false
+        },
+        {
+          "description": "",
+          "from": "Apr 2017",
+          "title": "Textile Designer ",
+          "to": "July 2017",
+          "company": "Reliance Brands Limited ",
+          "currentlyworking": false
+        },
+        {
+          "description": "",
+          "from": "Apr 2017",
+          "title": "Social Media Manager",
+          "to": "May 2017",
+          "company": "ATKT",
+          "currentlyworking": false
+        },
+        {
+          "description": "",
+          "from": "Apr 2017",
+          "title": "Social Media Manager ",
+          "to": "May 2017",
+          "company": "Smile Middle ",
+          "currentlyworking": false
+        },
+        {
+          "description": "",
+          "from": "July 2016",
+          "title": "Graphic Designer ",
+          "to": "Dec 2016",
+          "company": "OXOMO",
+          "currentlyworking": false
+        },
+        {
+          "description": "",
+          "from": "July 2015",
+          "title": "Sakes and Marketing ",
+          "to": "Aug 2015",
+          "company": "Hydra Corporation ",
+          "currentlyworking": false
+        }
+      ],
+      "privacy": false,
+      "projects": [
+        
+      ],
+      "sociallinks": [
+        {
+          "url": "linkedin.com/in/oindrilapal/",
+          "socialplatform": "linkedin"
+        },
+        {
+          "url": "moohmaya.leha",
+          "socialplatform": "snapchat"
+        },
+        {
+          "url": "instagram.com/odds_one_out",
+          "socialplatform": "instagram"
+        },
+        {
+          "url": "facebook.com/pal.oindrila.leha",
+          "socialplatform": "facebook"
+        }
+      ]
+    },
+    {
+      "aboutme": "I am yet another fresher big dream on business development. Looking for challenging role to excel my skills.\n",
+      "achievements": [
+        "Stood 1st in national level Public speaking competition",
+        "IETE campus ambassador during the year 2014-2015",
+        "Won't 1st prize in IEEE paper presentation competition"
+      ],
+      "createdAt": "2016-05-29T16:23:03.229Z",
+      "experience": [
+        
+      ],
+      "id": "574b1767b1d90e742c1410fc",
+      "link": null,
+      "skills": [
+        
+      ],
+      "updatedAt": "2017-04-03T07:25:38.432Z",
+      "user": "56ed0a5065a766d25a46d36c",
+      "score": 2.75,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "I am currently pursuing MBA from JBIMS.\nI have prior work experience of 17 months in Content Development unit of Lionbridge Technologies in Mumbai.",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-30T05:30:40.944Z",
+      "experience": [
+        
+      ],
+      "id": "574bd000b1d90e742c1411c9",
+      "link": null,
+      "skills": [
+        "General Skills:Communication Skill",
+        "General Skills:Analytical Skills",
+        "General Skills:Research",
+        "Marketing:Content Writing",
+        "Marketing:Social Media Advertising"
+      ],
+      "updatedAt": "2017-09-05T10:55:27.814Z",
+      "user": "56794dfaf3adc99f058606ec",
+      "newskills": [
+        {
+          "name": "Communication Skill",
+          "rating": 3,
+          "category": "General Skills"
+        },
+        {
+          "category": "General Skills",
+          "name": "Analytical Skills",
+          "rating": 3
+        },
+        {
+          "rating": 3,
+          "category": "General Skills",
+          "name": "Research"
+        },
+        {
+          "category": "Marketing",
+          "name": "Content Writing",
+          "rating": 3
+        },
+        {
+          "category": "Marketing",
+          "name": "Social Media Advertising",
+          "rating": 3
+        }
+      ],
+      "score": 3.25,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "-Hardworking\n-Passionate\n-Excellent communication skills\n-Good networking skills\n-Confident\n-Honest\n-Performs every task allotted with full concentration\n-Good speaking skills",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-30T10:52:47.958Z",
+      "experience": [
+        
+      ],
+      "id": "574c1b7fb1d90e742c141270",
+      "link": null,
+      "skills": [
+        "General Skills:Organizational Skills",
+        "Marketing:Advertising",
+        "Marketing:Social Media Advertising",
+        "Marketing:Marketing",
+        "Marketing:Sales"
+      ],
+      "updatedAt": "2017-01-11T10:34:33.376Z",
+      "user": "574abb21b1d90e742c141030",
+      "newskills": [
+        {
+          "rating": 3,
+          "category": "General Skills",
+          "name": "Organizational Skills"
+        },
+        {
+          "category": "Marketing",
+          "name": "Advertising",
+          "rating": 3
+        },
+        {
+          "name": "Social Media Advertising",
+          "rating": 3,
+          "category": "Marketing"
+        },
+        {
+          "rating": 3,
+          "category": "Marketing",
+          "name": "Marketing"
+        },
+        {
+          "name": "Sales",
+          "rating": 3,
+          "category": "Marketing"
+        }
+      ],
+      "score": 4,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "I am Hard Working ;Punctual Leadership is my quality",
+      "achievements": [
+        "Sketching ;paintings"
+      ],
+      "createdAt": "2016-05-30T19:54:40.412Z",
+      "experience": [
+        
+      ],
+      "id": "574c9a80b1d90e742c1413c0",
+      "link": null,
+      "skills": [
+        "General Skills:Leadership",
+        "General Skills:Team Player",
+        "Technical Skills:C++"
+      ],
+      "updatedAt": "2017-03-10T10:55:44.909Z",
+      "user": "574c986cb1d90e742c1413bc",
+      "newskills": [
+        {
+          "name": "Leadership",
+          "rating": 3,
+          "category": "General Skills"
+        },
+        {
+          "category": "General Skills",
+          "name": "Team Player",
+          "rating": 3
+        },
+        {
+          "category": "Technical Skills",
+          "name": "C++",
+          "rating": 3
+        }
+      ],
+      "college": "56619d5449e3059b1142cbf1",
+      "score": 6.5,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "Passionate Computer Aided Designer ",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-31T00:10:55.056Z",
+      "experience": [
+        
+      ],
+      "id": "574cd68fb1d90e742c1413e5",
+      "link": null,
+      "skills": [
+        "General Skills:Team Player",
+        "Design Softwares:Autocad",
+        "Design Softwares:Photo Editing",
+        "Design Softwares:Adobe Photoshop",
+        "Office:Microsoft Office"
+      ],
+      "updatedAt": "2017-03-10T10:55:44.794Z",
+      "user": "574cd390b1d90e742c1413e3",
+      "newskills": [
+        {
+          "rating": 3,
+          "category": "General Skills",
+          "name": "Team Player"
+        },
+        {
+          "name": "Autocad",
+          "rating": 3,
+          "category": "Design Softwares"
+        },
+        {
+          "category": "Design Softwares",
+          "name": "Photo Editing",
+          "rating": 3
+        },
+        {
+          "rating": 3,
+          "category": "Design Softwares",
+          "name": "Adobe Photoshop"
+        },
+        {
+          "category": "Office",
+          "name": "Microsoft Office",
+          "rating": 3
+        }
+      ],
+      "college": "574d83f68dcdb4db5b650f4d",
+      "score": 3.25,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "Photographer and artist , graphic designer",
+      "achievements": [
+        "Photography course from -The Photographic society of india",
+        "Wedding photography \nPhoto shoot"
+      ],
+      "createdAt": "2016-05-31T09:59:18.161Z",
+      "experience": [
+        
+      ],
+      "id": "574d6076b1d90e742c1414e1",
+      "link": null,
+      "skills": [
+        "General Skills:Team Player",
+        "Design Softwares:Adobe Photoshop",
+        "Design Softwares:Corel Draw",
+        "Marketing:Photography",
+        "Marketing:Creativity"
+      ],
+      "updatedAt": "2019-07-31T05:16:16.258Z",
+      "user": "574d59e2b1d90e742c1414d8",
+      "newskills": [
+        {
+          "rating": 3,
+          "category": "General Skills",
+          "name": "Team Player"
+        },
+        {
+          "category": "Design Softwares",
+          "name": "Adobe Photoshop",
+          "rating": 3
+        },
+        {
+          "category": "Design Softwares",
+          "name": "Corel Draw",
+          "rating": 3
+        },
+        {
+          "category": "Marketing",
+          "name": "Creativity",
+          "rating": 3
+        },
+        {
+          "rating": 5,
+          "name": "Photography",
+          "category": "Creative"
+        }
+      ],
+      "score": 4.25,
+      "education": [
+        {
+          "name": "Patkar college",
+          "type": "degree",
+          "startyear": 2019,
+          "degree": "Bachlor of mass media",
+          "marks": 70,
+          "markstype": "%",
+          "currentlyPursuing": true
+        }
+      ],
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "I am a gregarious person and I can easily mingle with people.My self confidence and positive attitude add beauty to my personality.I am a very focused person who likes to overcome challenges.I am very possesive about my work.If I fail at something, I keep doing it until I get it right.I am practical enough to understand the requirements of company.Apart from this, I like to meet new people around.\n",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-31T13:45:25.154Z",
+      "experience": [
+        
+      ],
+      "id": "574d9575b3e187b45c1943e2",
+      "link": null,
+      "skills": [
+        "General Skills:Analytical Skills",
+        "General Skills:Team Player",
+        "Finance:Accounting",
+        "Finance:Tally",
+        "Finance:Financial Analysis"
+      ],
+      "updatedAt": "2017-03-10T10:55:45.035Z",
+      "user": "574d4733b1d90e742c141497",
+      "newskills": [
+        {
+          "category": "General Skills",
+          "name": "Analytical Skills",
+          "rating": 3
+        },
+        {
+          "category": "General Skills",
+          "name": "Team Player",
+          "rating": 3
+        },
+        {
+          "category": "Finance",
+          "name": "Accounting",
+          "rating": 3
+        },
+        {
+          "category": "Finance",
+          "name": "Tally",
+          "rating": 3
+        },
+        {
+          "name": "Financial Analysis",
+          "rating": 3,
+          "category": "Finance"
+        }
+      ],
+      "college": "574da2dcb3e187b45c19447c",
+      "score": 3,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "Student , ",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-27T17:21:39.331Z",
+      "experience": [
+        
+      ],
+      "id": "57488223b1d90e742c140be3",
+      "link": null,
+      "skills": [
+        "General Skills:Entrepreneurial",
+        "General Skills:Leadership",
+        "General Skills:Team Player",
+        "Marketing:Sales",
+        "Office:MS Office"
+      ],
+      "updatedAt": "2017-01-11T10:34:33.353Z",
+      "user": "57487dcbb1d90e742c140bbd",
+      "newskills": [
+        {
+          "category": "General Skills",
+          "name": "Entrepreneurial",
+          "rating": 3
+        },
+        {
+          "name": "Leadership",
+          "rating": 3,
+          "category": "General Skills"
+        },
+        {
+          "rating": 3,
+          "category": "General Skills",
+          "name": "Team Player"
+        },
+        {
+          "category": "Marketing",
+          "name": "Sales",
+          "rating": 3
+        },
+        {
+          "name": "MS Office",
+          "rating": 3,
+          "category": "Office"
+        }
+      ],
+      "score": 4.25,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "Myself Nagesh Mhapadi, I'm pursing bachelor of engineering currently in third year of information technology.\nI secured 82% in SSC exam. After that I completed my diploma in information technology from VPM's Polytechnic, Thane. \nWhile I was in diploma, One of the my best project was Virtual Electrical Switch. Recently I did project on Departmental Library Management System in my current academics.\nI like to play online multiplayer pc games. Also to review/compare smartphones.",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-27T17:47:35.421Z",
+      "experience": [
+        
+      ],
+      "id": "57488837b1d90e742c140c13",
+      "link": null,
+      "skills": [
+        "General Skills:Team Player",
+        "General Skills:Leadership",
+        "Technical Skills:Java",
+        "Technical Skills:C",
+        "Design Softwares:Flash"
+      ],
+      "updatedAt": "2017-01-11T10:34:33.355Z",
+      "user": "574880e9b1d90e742c140bd5",
+      "newskills": [
+        {
+          "category": "General Skills",
+          "name": "Team Player",
+          "rating": 3
+        },
+        {
+          "rating": 3,
+          "category": "General Skills",
+          "name": "Leadership"
+        },
+        {
+          "rating": 3,
+          "category": "Technical Skills",
+          "name": "Java"
+        },
+        {
+          "category": "Technical Skills",
+          "name": "C",
+          "rating": 3
+        },
+        {
+          "category": "Design Softwares",
+          "name": "Flash",
+          "rating": 3
+        }
+      ],
+      "score": 3,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "Cinematographer, Photographer, Editor, Director",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-28T04:17:57.314Z",
+      "experience": [
+        
+      ],
+      "id": "57491bf5b1d90e742c140d1e",
+      "link": null,
+      "skills": [
+        "General Skills:Leadership",
+        "Design Softwares:Adobe After Effects",
+        "Design Softwares:Adobe Premiere ",
+        "Design Softwares:Flash",
+        "Design Softwares:Photo Editing"
+      ],
+      "updatedAt": "2018-07-16T04:54:51.976Z",
+      "user": "574889fdb1d90e742c140c21",
+      "newskills": [
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Leadership",
+          "rating": "3"
+        },
+        {
+          "category": "Design Softwares",
+          "iconurl": null,
+          "name": "Adobe Premiere",
+          "rating": "3"
+        },
+        {
+          "category": "Design Softwares",
+          "iconurl": null,
+          "name": "Adobe Premiere ",
+          "rating": "5"
+        },
+        {
+          "category": "Marketing",
+          "iconurl": null,
+          "name": "Photography",
+          "rating": "4"
+        },
+        {
+          "category": "Marketing",
+          "iconurl": null,
+          "name": "Content Planning",
+          "rating": "3"
+        },
+        {
+          "category": "Marketing",
+          "iconurl": null,
+          "name": "Content Writing",
+          "rating": "2"
+        },
+        {
+          "category": "Marketing",
+          "iconurl": null,
+          "name": "Advertising",
+          "rating": "3"
+        }
+      ],
+      "score": 2.75,
+      "hint": "Verify your student status to get started with frapp!",
+      "education": [
+        {
+          "currentlyPursuing": true,
+          "degree": "Bachelor Of Arts In Film, Television And New Media Production",
+          "endyear": null,
+          "marks": "",
+          "markstype": "",
+          "name": "Deviprasad Goenka Management College Of Media Studies",
+          "startyear": "2016",
+          "type": "degree"
+        },
+        {
+          "currentlyPursuing": false,
+          "degree": "Hsc",
+          "endyear": "2016",
+          "marks": "58",
+          "markstype": "%",
+          "name": "Atomic Energy Junior College",
+          "startyear": "2014",
+          "type": "junior_college"
+        },
+        {
+          "currentlyPursuing": false,
+          "degree": "CBSE",
+          "endyear": "2014",
+          "marks": "70.8",
+          "markstype": "%",
+          "name": "Atomic Energy Central School",
+          "startyear": null,
+          "type": "school"
+        }
+      ],
+      "hobbies": [
+        "Cinematography",
+        "Direction",
+        "Sound design",
+        "Photography",
+        "Editing"
+      ],
+      "newexperience": [
+        {
+          "company": "Daniel Wellington",
+          "currentlyworking": false,
+          "description": "Made digital videos for DW",
+          "from": "Apr 2018",
+          "title": "Digital Videos",
+          "to": "May 2018"
+        },
+        {
+          "company": "A S Motiwala",
+          "currentlyworking": false,
+          "description": "",
+          "from": "Jan 2018",
+          "title": "Digital Videos",
+          "to": "Jan 2018"
+        }
+      ],
+      "projects": [
+        {
+          "description": "Short film I made while pursuing this course and many more to come",
+          "title": "Short Film - Cammed (Amey Pawar)"
+        },
+        {
+          "description": "A video inspired by Sam Kolder, me and my friends made while we were on a trip to Rajasthan",
+          "title": "Rajasthan Video"
+        },
+        {
+          "description": "Instagram contains more videos and photos, instagram.com/pprcloud",
+          "title": "Instagram Profile"
+        },
+        {
+          "description": "",
+          "title": "Daniel Wellington #MyClassic videos"
+        }
+      ],
+      "sociallinks": [
+        {
+          "color": null,
+          "icon": null,
+          "prefix": null,
+          "socialplatform": "facebook",
+          "url": "facebook.com/ameyrp"
+        },
+        {
+          "color": null,
+          "icon": null,
+          "prefix": null,
+          "socialplatform": "instagram",
+          "url": "instagram.com/pprcloud"
+        },
+        {
+          "color": null,
+          "icon": null,
+          "prefix": null,
+          "socialplatform": "youtube",
+          "url": "https://m.youtube.com/Papercloud"
+        }
+      ],
+      "college": "56002b9ada60128505b6b8d2",
+      "privacy": false
+    },
+    {
+      "aboutme": "Singer, techie, mechanical engineer, event management.",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-30T11:31:04.773Z",
+      "experience": [
+        
+      ],
+      "id": "574c2478b1d90e742c14128c",
+      "link": null,
+      "skills": [
+        "General Skills:Presentation Skill",
+        "General Skills:Communication Skill",
+        "General Skills:Organizational Skills",
+        "Marketing:Content Writing",
+        "Marketing:Creativity"
+      ],
+      "updatedAt": "2017-01-11T10:34:33.376Z",
+      "user": "574c2305b1d90e742c141287",
+      "newskills": [
+        {
+          "rating": 3,
+          "category": "General Skills",
+          "name": "Presentation Skill"
+        },
+        {
+          "name": "Communication Skill",
+          "rating": 3,
+          "category": "General Skills"
+        },
+        {
+          "category": "General Skills",
+          "name": "Organizational Skills",
+          "rating": 3
+        },
+        {
+          "category": "Marketing",
+          "name": "Content Writing",
+          "rating": 3
+        },
+        {
+          "rating": 3,
+          "category": "Marketing",
+          "name": "Creativity"
+        }
+      ],
+      "score": 3.5,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "I am a 3rd year Computer Engineering Diploma student. I love computers. I am a National level Speed Skater. I love Sports. I was the House Captain in school. I can handle responsibilities well. I am consistent and accurate with my work. I am a fast learner.",
+      "achievements": [
+        "National level Inline Speed Skater.",
+        "Completed MS-CIT(State level Computer course) with distinction at the age of 14.",
+        "Basic Animation Course Certificate with Merit Percentage."
+      ],
+      "createdAt": "2016-05-31T00:10:25.385Z",
+      "experience": [
+        "Worked at Bookmyshow.com as Ticket Checker from Dec 2015 to Dec 2015"
+      ],
+      "id": "574cd671b1d90e742c1413e4",
+      "link": null,
+      "skills": [
+        "General Skills:Logical reasoning",
+        "Technical Skills:Computer Hardware",
+        "Technical Skills:C++",
+        "Office:Microsoft Office",
+        "Other:Data Entry"
+      ],
+      "updatedAt": "2017-03-10T10:55:44.911Z",
+      "user": "574cd0deb1d90e742c1413e2",
+      "newskills": [
+        {
+          "rating": 3,
+          "category": "General Skills",
+          "name": "Logical reasoning"
+        },
+        {
+          "category": "Technical Skills",
+          "name": "Computer Hardware",
+          "rating": 3
+        },
+        {
+          "category": "Technical Skills",
+          "name": "C++",
+          "rating": 3
+        },
+        {
+          "category": "Office",
+          "name": "Microsoft Office",
+          "rating": 3
+        },
+        {
+          "category": "Other",
+          "name": "Data Entry",
+          "rating": 3
+        }
+      ],
+      "newexperience": [
+        {
+          "from": "Dec 2015",
+          "to": "Dec 2015",
+          "company": "Bookmyshow.com",
+          "title": "Ticket Checker",
+          "description": "Worked at Bookmyshow.com as Ticket Checker from Dec 2015 to Dec 2015"
+        }
+      ],
+      "college": "5725cec96368548605e5ef6a",
+      "score": 2,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "Digital marketer ",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-31T07:23:30.767Z",
+      "experience": [
+        
+      ],
+      "id": "574d3bf2b1d90e742c14148a",
+      "link": null,
+      "skills": [
+        "Design Softwares:SEO/SEM",
+        "Marketing:Advertising",
+        "Marketing:Social Media Advertising",
+        "Marketing:Marketing",
+        "Marketing:Blogger"
+      ],
+      "updatedAt": "2017-01-11T10:34:33.382Z",
+      "user": "574d3a7fb1d90e742c141488",
+      "newskills": [
+        {
+          "rating": 3,
+          "category": "Design Softwares",
+          "name": "SEO/SEM"
+        },
+        {
+          "category": "Marketing",
+          "name": "Advertising",
+          "rating": 3
+        },
+        {
+          "category": "Marketing",
+          "name": "Social Media Advertising",
+          "rating": 3
+        },
+        {
+          "category": "Marketing",
+          "name": "Marketing",
+          "rating": 3
+        },
+        {
+          "category": "Marketing",
+          "name": "Blogger",
+          "rating": 3
+        }
+      ],
+      "score": 1.5,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "Rukeia Bora",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-28T02:52:05.189Z",
+      "experience": [
+        
+      ],
+      "id": "574907d5b1d90e742c140cef",
+      "link": null,
+      "skills": [
+        "Design Softwares:Adobe Photoshop",
+        "Design Softwares:Corel Draw",
+        "Design Softwares:Graphic Design",
+        "Design Softwares:Autocad",
+        "Design Softwares:Photo Editing"
+      ],
+      "updatedAt": "2018-01-29T00:35:31.996Z",
+      "user": "5677e252f3adc99f058605ec",
+      "newskills": [
+        {
+          "category": "Design Softwares",
+          "name": "Adobe Photoshop",
+          "rating": 3
+        },
+        {
+          "name": "Corel Draw",
+          "rating": 3,
+          "category": "Design Softwares"
+        },
+        {
+          "rating": 3,
+          "category": "Design Softwares",
+          "name": "Graphic Design"
+        },
+        {
+          "category": "Design Softwares",
+          "name": "Autocad",
+          "rating": 3
+        },
+        {
+          "category": "Design Softwares",
+          "name": "Photo Editing",
+          "rating": 3
+        }
+      ],
+      "score": 2.75,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "Very confident.☺",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-28T12:26:26.601Z",
+      "experience": [
+        
+      ],
+      "id": "57498e72b1d90e742c140e41",
+      "link": null,
+      "skills": [
+        "General Skills:Communication Skill",
+        "General Skills:Presentation Skill",
+        "Design Softwares:Photo Editing",
+        "Finance:Accounting",
+        "Marketing:Photography"
+      ],
+      "updatedAt": "2017-03-26T21:58:30.995Z",
+      "user": "57489056b1d90e742c140c57",
+      "newskills": [
+        {
+          "name": "Communication Skill",
+          "rating": 3,
+          "category": "General Skills"
+        },
+        {
+          "category": "General Skills",
+          "name": "Presentation Skill",
+          "rating": 3
+        },
+        {
+          "category": "Design Softwares",
+          "name": "Photo Editing",
+          "rating": 3
+        },
+        {
+          "category": "Finance",
+          "name": "Accounting",
+          "rating": 3
+        },
+        {
+          "category": "Marketing",
+          "name": "Photography",
+          "rating": 3
+        }
+      ],
+      "college": "55c8d332d7ea0e5c07c03522",
+      "score": 2.75,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "I'm Simple minded guy with curiosity to explore new things ",
+      "achievements": [
+        "School Exhibition "
+      ],
+      "createdAt": "2016-05-29T05:31:25.586Z",
+      "experience": [
+        
+      ],
+      "id": "574a7eadb1d90e742c140f98",
+      "link": null,
+      "skills": [
+        "General Skills:Quantitative Aptitude",
+        "Marketing:Content Writing",
+        "Marketing:Photography",
+        "Marketing:Copy Writing",
+        "Other:Data Entry"
+      ],
+      "updatedAt": "2017-01-11T10:34:33.367Z",
+      "user": "574967d9b1d90e742c140deb",
+      "newskills": [
+        {
+          "rating": 3,
+          "category": "General Skills",
+          "name": "Quantitative Aptitude"
+        },
+        {
+          "category": "Marketing",
+          "name": "Content Writing",
+          "rating": 3
+        },
+        {
+          "rating": 3,
+          "category": "Marketing",
+          "name": "Photography"
+        },
+        {
+          "category": "Marketing",
+          "name": "Copy Writing",
+          "rating": 3
+        },
+        {
+          "category": "Other",
+          "name": "Data Entry",
+          "rating": 3
+        }
+      ],
+      "score": 2.75,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "I am an IT engineer. Currently completed my 3rd year. Have basic knowledge of coding and want to go for a future in marketing, So planning to go for MIS in US within a year or two. Have my GRE scheduled within a month which will clear the air about the choice of college and university.",
+      "achievements": [
+        "Hosted events in the college fest as event head.",
+        "Class Representative ",
+        "Branch Cricket team captain."
+      ],
+      "createdAt": "2016-05-29T13:04:52.043Z",
+      "experience": [
+        
+      ],
+      "id": "574ae8f4b1d90e742c1410a2",
+      "link": null,
+      "skills": [
+        "General Skills:Communication Skill",
+        "General Skills:Leadership",
+        "General Skills:Analytical Skills",
+        "General Skills:Team Player",
+        "General Skills:Quantitative Aptitude"
+      ],
+      "updatedAt": "2017-03-10T10:55:35.759Z",
+      "user": "573255c93c7c6ceb40b87b9c",
+      "newskills": [
+        {
+          "name": "Communication Skill",
+          "rating": 3,
+          "category": "General Skills"
+        },
+        {
+          "rating": 3,
+          "category": "General Skills",
+          "name": "Leadership"
+        },
+        {
+          "category": "General Skills",
+          "name": "Analytical Skills",
+          "rating": 3
+        },
+        {
+          "name": "Team Player",
+          "rating": 3,
+          "category": "General Skills"
+        },
+        {
+          "category": "General Skills",
+          "name": "Quantitative Aptitude",
+          "rating": 3
+        }
+      ],
+      "college": "57342a073c7c6ceb40b87cac",
+      "score": 5.25,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "Motive is to create an identity in the corporate world and to develop my skills.",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-30T10:37:00.163Z",
+      "experience": [
+        
+      ],
+      "id": "574c17ccb1d90e742c141267",
+      "link": null,
+      "skills": [
+        
+      ],
+      "updatedAt": "2017-06-24T10:16:52.616Z",
+      "user": "57441ed93c7c6ceb40b88ee6",
+      "score": 2.75,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "Sports Enthusiast",
+      "achievements": [
+        "Basketball team CAPTAIN ",
+        "Head of Traffic Squad Department ",
+        "President RC ISME"
+      ],
+      "createdAt": "2016-05-31T03:18:40.534Z",
+      "experience": [
+        "Worked at FRAPP as Beta Tester from May 2016 to Jun 2016"
+      ],
+      "id": "574d0290b1d90e742c14140a",
+      "link": null,
+      "skills": [
+        "General Skills:Leadership",
+        "General Skills:Organizational Skills",
+        "General Skills:Communication Skill",
+        "Office:Powerpoint",
+        "Office:Microsoft Word"
+      ],
+      "updatedAt": "2018-12-21T12:45:39.458Z",
+      "user": "567684d3c3626a6e0aa227d1",
+      "newskills": [
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Leadership",
+          "rating": "3"
+        },
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Organizational Skills",
+          "rating": "3"
+        },
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Communication Skill",
+          "rating": "3"
+        },
+        {
+          "category": "Office",
+          "iconurl": null,
+          "name": "Powerpoint",
+          "rating": "5"
+        },
+        {
+          "category": "Office",
+          "iconurl": null,
+          "name": "Microsoft Word",
+          "rating": "5"
+        },
+        {
+          "category": "Finance",
+          "iconurl": null,
+          "name": "Accounting",
+          "rating": "4"
+        },
+        {
+          "category": "Finance",
+          "iconurl": null,
+          "name": "Tally",
+          "rating": "3"
+        },
+        {
+          "category": "Marketing",
+          "iconurl": null,
+          "name": "Social Media Advertising",
+          "rating": "4"
+        },
+        {
+          "category": "Design Softwares",
+          "iconurl": null,
+          "name": "Corel Draw",
+          "rating": "5"
+        },
+        {
+          "category": "Design Softwares",
+          "iconurl": null,
+          "name": "Photo Editing",
+          "rating": "5"
+        },
+        {
+          "category": "Design Softwares",
+          "iconurl": null,
+          "name": "Video Editing",
+          "rating": "4"
+        },
+        {
+          "category": "Finance",
+          "iconurl": null,
+          "name": "Stock Market",
+          "rating": "3"
+        },
+        {
+          "category": "Marketing",
+          "iconurl": null,
+          "name": "Sales",
+          "rating": "4"
+        },
+        {
+          "category": "Office",
+          "iconurl": null,
+          "name": "Microsoft Office",
+          "rating": "4"
+        },
+        {
+          "category": "Office",
+          "iconurl": null,
+          "name": "Microsoft Excel",
+          "rating": "5"
+        },
+        {
+          "category": "Office",
+          "iconurl": null,
+          "name": "MS Office",
+          "rating": "3"
+        },
+        {
+          "category": "Hospitality",
+          "iconurl": null,
+          "name": "Event Management",
+          "rating": "3"
+        },
+        {
+          "category": "Marketing",
+          "iconurl": null,
+          "name": "Marketing",
+          "rating": "4"
+        },
+        {
+          "category": "Marketing",
+          "iconurl": null,
+          "name": "Advertising",
+          "rating": "4"
+        },
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Team Player",
+          "rating": "4"
+        },
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Presentation Skill",
+          "rating": "3"
+        },
+        {
+          "category": "Other",
+          "iconurl": null,
+          "name": "Import and Export",
+          "rating": "4"
+        },
+        {
+          "category": "Other",
+          "iconurl": null,
+          "name": "Data Entry",
+          "rating": "4"
+        },
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Research",
+          "rating": "3"
+        },
+        {
+          "category": "Marketing",
+          "iconurl": null,
+          "name": "Creativity",
+          "rating": "5"
+        },
+        {
+          "category": "Design Softwares",
+          "iconurl": null,
+          "name": "Graphic Design",
+          "rating": "3"
+        },
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Analytical Skills",
+          "rating": "4"
+        },
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Negotiation Skills",
+          "rating": "3"
+        }
+      ],
+      "newexperience": [
+        {
+          "company": "FRAPP",
+          "currentlyworking": false,
+          "description": "Worked at FRAPP as Beta Tester from May 2016 to Jun 2016",
+          "from": "May 2016",
+          "title": "Beta Tester",
+          "to": "Jun 2016"
+        },
+        {
+          "company": "Indian School of Management and Entrepreneurship",
+          "currentlyworking": true,
+          "description": "Marketing and Operations intern at ISME",
+          "from": "Jan 2018",
+          "title": "Marketing and Operations Intern",
+          "to": "Mar 2018"
+        },
+        {
+          "company": "Frapp",
+          "currentlyworking": false,
+          "description": "Marketing for the firm and handling campaigns was my job",
+          "from": "Jun 2018",
+          "title": "Marketing/Campaign Intern",
+          "to": "Dec 2018"
+        }
+      ],
+      "hint": "Verify your student status to get started with frapp!",
+      "score": 9.5,
+      "education": [
+        {
+          "currentlyPursuing": true,
+          "degree": "BME",
+          "endyear": null,
+          "marks": "8.25",
+          "markstype": "CGPA/10",
+          "name": "Indian School Of Management And Entrepreneurship",
+          "startyear": "2017",
+          "type": "degree"
+        },
+        {
+          "currentlyPursuing": true,
+          "degree": "Commerce",
+          "endyear": null,
+          "marks": "69",
+          "markstype": "%",
+          "name": "R D National College",
+          "startyear": "2015",
+          "type": "junior_college"
+        },
+        {
+          "currentlyPursuing": false,
+          "degree": "ICSE",
+          "endyear": "2015",
+          "marks": "86",
+          "markstype": "%",
+          "name": "Arya Vidya Mandir",
+          "startyear": null,
+          "type": "school"
+        }
+      ],
+      "hobbies": [
+        "Basketball",
+        "Football",
+        "Stock Market",
+        "TABLE TENNIS",
+        "Real Estate",
+        "Marketing",
+        "Media & Advertising"
+      ],
+      "projects": [
+        {
+          "description": "Heading the team of RC ISME for the year 2018-19",
+          "title": "RC ISME"
+        },
+        {
+          "description": "Successfully hosting an orphanage along with Meraki for the current year",
+          "title": "Meraki Orphan Welfare"
+        }
+      ],
+      "sociallinks": [
+        {
+          "color": null,
+          "icon": null,
+          "prefix": null,
+          "socialplatform": "facebook",
+          "url": "facebook.com/utkarshkejriwal"
+        },
+        {
+          "color": null,
+          "icon": null,
+          "prefix": null,
+          "socialplatform": "instagram",
+          "url": "instagram.com/utkarsh_kejriwal"
+        },
+        {
+          "color": null,
+          "icon": null,
+          "prefix": null,
+          "socialplatform": "twitter",
+          "url": "twitter.com/kejriwalutkarsh"
+        },
+        {
+          "color": null,
+          "icon": null,
+          "prefix": null,
+          "socialplatform": "snapchat",
+          "url": "ukejriwal1"
+        }
+      ],
+      "college": "577b87533d27b1511b09c560",
+      "privacy": false,
+      "certificate": [
+        {
+          "certificateUrl": "http://static.frapp.in/53c63d65-73e2-49da-bfaa-1d6d39c26d61.pdf",
+          "brandName": "Starbucks",
+          "brandLogo": "https://s3.ap-south-1.amazonaws.com/static.frapp.in/4.0/starbucks+new+logo+(1).png"
+        }
+      ]
+    },
+    {
+      "aboutme": "I'm doing fashion designing in MCC",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-31T06:52:41.486Z",
+      "experience": [
+        
+      ],
+      "id": "574d34b9b1d90e742c14147d",
+      "link": null,
+      "skills": [
+        
+      ],
+      "updatedAt": "2017-03-10T10:55:46.179Z",
+      "user": "574d335bb1d90e742c14147a",
+      "college": "55e9387330382c9b0d5e69f5",
+      "score": 7.75,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "Pursing CA and SyBcom at RA Podar college matunga\n",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-31T09:13:41.499Z",
+      "experience": [
+        
+      ],
+      "id": "574d55c5b1d90e742c1414d2",
+      "link": null,
+      "skills": [
+        "General Skills:Presentation Skill",
+        "General Skills:Communication Skill",
+        "General Skills:Analytical Skills",
+        "Finance:Accounting",
+        "Finance:Financial Analysis"
+      ],
+      "updatedAt": "2017-01-11T10:34:33.383Z",
+      "user": "574d4a67b1d90e742c1414a4",
+      "newskills": [
+        {
+          "category": "General Skills",
+          "name": "Presentation Skill",
+          "rating": 3
+        },
+        {
+          "category": "General Skills",
+          "name": "Communication Skill",
+          "rating": 3
+        },
+        {
+          "category": "General Skills",
+          "name": "Analytical Skills",
+          "rating": 3
+        },
+        {
+          "category": "Finance",
+          "name": "Accounting",
+          "rating": 3
+        },
+        {
+          "name": "Financial Analysis",
+          "rating": 3,
+          "category": "Finance"
+        }
+      ],
+      "score": 1.5,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "I am From Navi Mumbai, Studying S.Y.B.Com",
+      "achievements": [
+        
+      ],
+      "createdAt": "2016-05-31T09:19:27.643Z",
+      "experience": [
+        
+      ],
+      "id": "574d571fb1d90e742c1414d5",
+      "link": null,
+      "skills": [
+        "Finance:Accounting",
+        "Finance:Tally",
+        "Marketing:Copy Writing",
+        "Marketing:Content Writing",
+        "Office:Microsoft Excel"
+      ],
+      "updatedAt": "2017-01-11T10:34:33.384Z",
+      "user": "572cbeda3c7c6ceb40b87775",
+      "newskills": [
+        {
+          "rating": 3,
+          "category": "Finance",
+          "name": "Accounting"
+        },
+        {
+          "category": "Finance",
+          "name": "Tally",
+          "rating": 3
+        },
+        {
+          "category": "Marketing",
+          "name": "Copy Writing",
+          "rating": 3
+        },
+        {
+          "category": "Marketing",
+          "name": "Content Writing",
+          "rating": 3
+        },
+        {
+          "name": "Microsoft Excel",
+          "rating": 3,
+          "category": "Office"
+        }
+      ],
+      "score": 2.75,
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "Hhhhhhhhhhhh:hhhhhhhh",
+      "achievements": [
+        "Doing tp"
+      ],
+      "createdAt": "2016-05-26T14:16:31.052Z",
+      "experience": [
+        "Worked at Ocwen as Specialist from Jul 2013 to Dec 2015",
+        "Worked at Bla as Bla from Jun 2015 to Jan 2016"
+      ],
+      "id": "5747053f35cca2561f5fb225",
+      "link": null,
+      "skills": [
+        "General Skills:Presentation Skill",
+        "Finance:Accounting",
+        "Marketing:Advertising",
+        "Office:Microsoft Office",
+        "Other:Import and Export"
+      ],
+      "updatedAt": "2018-08-24T22:30:45.242Z",
+      "user": "56b1cdf99ab8cc585dd19dbf",
+      "newskills": [
+        {
+          "rating": 3,
+          "category": "General Skills",
+          "name": "Presentation Skill"
+        },
+        {
+          "category": "Finance",
+          "name": "Accounting",
+          "rating": 3
+        },
+        {
+          "name": "Advertising",
+          "rating": 3,
+          "category": "Marketing"
+        },
+        {
+          "category": "Office",
+          "name": "Microsoft Office",
+          "rating": 3
+        },
+        {
+          "category": "Other",
+          "name": "Import and Export",
+          "rating": 3
+        }
+      ],
+      "newexperience": [
+        {
+          "company": "Ocwen",
+          "title": "Specialist",
+          "description": "Worked at Ocwen as Specialist from Jul 2013 to Dec 2015",
+          "from": "Jul 2013",
+          "to": "Dec 2015"
+        },
+        {
+          "from": "Jun 2015",
+          "to": "Jan 2016",
+          "company": "Bla",
+          "title": "Bla",
+          "description": "Worked at Bla as Bla from Jun 2015 to Jan 2016"
+        }
+      ],
+      "score": 2.75,
+      "college": "55c9ba95d7ea0e5c07c0355d",
+      "hint": "Verify your student status to get started with frapp!"
+    },
+    {
+      "aboutme": "I hve good command on English \nHardworking ",
+      "achievements": [
+        "Dancing & singing awards \n "
+      ],
+      "createdAt": "2016-05-27T18:17:37.784Z",
+      "experience": [
+        "Worked at United capital club  as Hr from Apr 2015 to Mar 2016"
+      ],
+      "id": "57488f41b1d90e742c140c4e",
+      "link": null,
+      "skills": [
+        "General Skills:Communication Skill",
+        "General Skills:Leadership",
+        "Marketing:Advertising",
+        "Hospitality:Event Management",
+        "Hospitality:Hotel Management"
+      ],
+      "updatedAt": "2017-02-07T17:35:20.605Z",
+      "user": "574889c7b1d90e742c140c1f",
+      "newskills": [
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Communication Skill",
+          "rating": "3"
+        },
+        {
+          "rating": "3",
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Leadership"
+        },
+        {
+          "category": "Marketing",
+          "iconurl": null,
+          "name": "Advertising",
+          "rating": "3"
+        },
+        {
+          "category": "Hospitality",
+          "iconurl": null,
+          "name": "Event Management",
+          "rating": "3"
+        },
+        {
+          "category": "Hospitality",
+          "iconurl": null,
+          "name": "Hotel Management",
+          "rating": "3"
+        }
+      ],
+      "newexperience": [
+        {
+          "currentlyworking": false,
+          "description": "Worked at United capital club  as Hr from Apr 2015 to Mar 2016",
+          "from": "Apr 2015",
+          "title": "Hr",
+          "to": "Mar 2016",
+          "company": "United capital club"
+        }
+      ],
+      "hint": "Verify your student status to get started with frapp!",
+      "score": 2.75,
+      "education": [
+        
+      ],
+      "hobbies": [
+        
+      ],
+      "projects": [
+        
+      ],
+      "sociallinks": [
+        
+      ]
+    },
+    {
+      "aboutme": "I have always been passionate about anything related to fashion and media and PR & Events so it would be a pleasure to work for such a company where my interest lies so I would request you to go through my work experience as well as sample work to make a better decision of what I do.I can assure you that I'll put in every effort possible along with my hard working skills to reach the requirements",
+      "achievements": [
+        "POPxo.com Campus Ambassador",
+        "Style Ambassador at StyleDotMe ",
+        "Delegate at 8th Young India Challenge"
+      ],
+      "createdAt": "2016-05-28T17:32:51.860Z",
+      "experience": [
+        "Worked at Wooplr as Campus Fashion Manager from Apr 2016 to May 2016",
+        "Working at Wooplr as E-commerce Intern since Nov 2016",
+        "Worked at Roast Media pvt Ltd as Marketing Intern from Nov 2016 to Dec 2016"
+      ],
+      "id": "5749d643b1d90e742c140ef4",
+      "link": null,
+      "skills": [
+        "General Skills:Organizational Skills",
+        "General Skills:Entrepreneurial",
+        "Technical Skills:Wordpress",
+        "Technical Skills:HTML",
+        "Technical Skills:Event Management",
+        "Marketing:Marketing",
+        "Marketing:Social Media Advertising",
+        "Marketing:Publicity"
+      ],
+      "updatedAt": "2017-09-04T04:59:41.560Z",
+      "user": "56f0a18b07a6c508372f1424",
+      "newskills": [
+        {
+          "category": "Technical Skills",
+          "iconurl": null,
+          "name": "Event Management",
+          "rating": "3"
+        },
+        {
+          "category": "General Skills",
+          "iconurl": null,
+          "name": "Entrepreneurial",
+          "rating": "5"
+        },
+        {
+          "category": "Finance",
+          "iconurl": null,
+          "name": "Accounting",
+          "rating": "3"
+        },
+        {
+          "category": "Marketing",
+          "iconurl": null,
+          "name": "Social Media Advertising",
+          "rating": "5"
+        },
+        {
+          "category": "Marketing",
+          "iconurl": null,
+          "name": "Marketing",
+          "rating": "5"
+        },
+        {
+          "category": "Marketing",
+          "iconurl": null,
+          "name": "Creativity",
+          "rating": "4"
+        },
+        {
+          "category": "Office",
+          "iconurl": null,
+          "name": "Microsoft Office",
+          "rating": "4"
+        },
+        {
+          "category": "Office",
+          "iconurl": null,
+          "name": "Microsoft Word",
+          "rating": "4"
+        },
+        {
+          "category": "Office",
+          "iconurl": null,
+          "name": "Powerpoint",
+          "rating": "4"
+        },
+        {
+          "category": "Office",
+          "iconurl": null,
+          "name": "Microsoft Excel",
+          "rating": "4"
+        },
+        {
+          "category": "Hospitality",
+          "iconurl": null,
+          "name": "Event Management",
+          "rating": "5"
+        }
+      ],
+      "newexperience": [
+        {
+          "company": "Wooplr",
+          "currentlyworking": false,
+          "description": "Worked at Wooplr as Campus Fashion Manager from Apr 2016 to May 2016",
+          "from": "Apr 2016",
+          "title": "Campus Fashion Manager",
+          "to": "May 2016"
+        },
+        {
+          "company": "Wooplr",
+          "currentlyworking": false,
+          "description": "Working at Wooplr as E-commerce Intern since Nov 2016",
+          "from": "Nov 2016",
+          "title": "E-commerce Intern",
+          "to": "Apr 2017"
+        },
+        {
+          "company": "Roast Media pvt Ltd",
+          "currentlyworking": false,
+          "description": "Worked at Roast Media pvt Ltd as Marketing Intern from Nov 2016 to Dec 2016",
+          "from": "Nov 2016",
+          "title": "Marketing Intern",
+          "to": "Dec 2016"
+        },
+        {
+          "company": "Styledotme",
+          "currentlyworking": false,
+          "description": "Giving fashion advice to people on Styledotme app",
+          "from": "Nov 2016",
+          "title": "Style Advisor",
+          "to": "Apr 2017"
+        },
+        {
+          "company": "Wooplr",
+          "currentlyworking": false,
+          "description": "Finding people in my city who have the urge to become an Entrepreneur and pitch them about MyStore platform.Growth & expansion of community. Organising My Store events.",
+          "from": "Feb 2017",
+          "title": "MyStore Ambassador",
+          "to": "Apr 2017"
+        },
+        {
+          "company": "The Indian Economist",
+          "currentlyworking": true,
+          "description": "Understanding marketing\n Thinking marketing\n Experiential marketing",
+          "from": "Jun 2017",
+          "title": "Marketing Analyst",
+          "to": "Jan 2017"
+        },
+        {
+          "company": "Foodiezine",
+          "currentlyworking": true,
+          "description": "",
+          "from": "Jun 2017",
+          "title": "Social Media Marketing Intern",
+          "to": "Jan 2017"
+        }
+      ],
+      "hint": "Your resume looks nice, add more details to improve your score.",
+      "score": 4.75,
+      "education": [
+        {
+          "currentlyPursuing": true,
+          "degree": "Bachelor of Business Administration (BBA)",
+          "endyear": null,
+          "marks": "",
+          "markstype": "",
+          "name": "Rukmini Devi Institute Of Advance Studies",
+          "startyear": "2014",
+          "type": "degree"
+        },
+        {
+          "currentlyPursuing": false,
+          "degree": "12th Class Under CBSE Board",
+          "endyear": "2014",
+          "marks": "80",
+          "markstype": "%",
+          "name": "DL D.A.V Model School",
+          "startyear": null,
+          "type": "school"
+        },
+        {
+          "currentlyPursuing": false,
+          "degree": "10th Class Under CBSE Board",
+          "endyear": "2012",
+          "marks": "66",
+          "markstype": "%",
+          "name": "DL D.A.V Model School",
+          "startyear": null,
+          "type": "school"
+        }
+      ],
+      "hobbies": [
+        "Singing",
+        "Traveling",
+        "Writing",
+        "Doing creative work",
+        "Blogging",
+        "Cooking",
+        "Event planning"
+      ],
+      "projects": [
+        {
+          "description": "",
+          "title": "A Project Report on Green Marketing By Himalayas."
+        },
+        {
+          "description": "",
+          "title": "A Project Report On Marketing Strategies Of Wooplr"
+        },
+        {
+          "description": "",
+          "title": "Project Report on Marketing Strategies Of VeroModa"
+        }
+      ],
+      "sociallinks": [
+        {
+          "color": null,
+          "icon": null,
+          "prefix": null,
+          "socialplatform": "facebook",
+          "url": "https://www.facebook.com/IshaaNarang12"
+        },
+        {
+          "color": null,
+          "icon": null,
+          "prefix": null,
+          "socialplatform": "instagram",
+          "url": "instagram.com/Ishaanarang"
+        },
+        {
+          "color": null,
+          "icon": null,
+          "prefix": null,
+          "socialplatform": "twitter",
+          "url": "twitter.com/IshaNarang96"
+        },
+        {
+          "color": null,
+          "icon": null,
+          "prefix": null,
+          "socialplatform": "snapchat",
+          "url": "ishaanarang"
+        },
+        {
+          "color": null,
+          "icon": null,
+          "prefix": null,
+          "socialplatform": "linkedin",
+          "url": "https://www.linkedin.com/in/isha-narang-b86b34ba"
+        }
+      ],
+      "college": "56002a07da60128505b6b8cd",
+      "privacy": false
+    },
+    {
+      "aboutme": "Aspiring Engineer ",
+      "achievements": [
+        "Diploma engineer "
+      ],
+      "createdAt": "2016-05-29T11:11:56.730Z",
+      "experience": [
+        
+      ],
+      "id": "574ace7cb1d90e742c141064",
+      "link": null,
+      "skills": [
+        "General Skills:Organizational Skills",
+        "General Skills:Communication Skill",
+        "General Skills:Team Player",
+        "Marketing:Publicity",
+        "Marketing:Sales"
+      ],
+      "updatedAt": "2017-01-11T10:34:33.368Z",
+      "user": "574acb28b1d90e742c141058",
+      "newskills": [
+        {
+          "category": "General Skills",
+          "name": "Organizational Skills",
+          "rating": 3
+        },
+        {
+          "category": "General Skills",
+          "name": "Communication Skill",
+          "rating": 3
+        },
+        {
+          "category": "General Skills",
+          "name": "Team Player",
+          "rating": 3
+        },
+        {
+          "category": "Marketing",
+          "name": "Publicity",
+          "rating": 3
+        },
+        {
+          "category": "Marketing",
+          "name": "Sales",
+          "rating": 3
+        }
+      ],
+      "score": 2.75,
+      "hint": "Verify your student status to get started with frapp!"
+    }
+  ]

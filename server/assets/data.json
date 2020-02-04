@@ -1,0 +1,193 @@
+[
+  {
+    "data": {
+      "skillArr": ["Java", "JavaFX", "JavaScript"],
+      "userLiked": ["java"],
+      "firstname": "vedang",
+      "lastname": "parasnis",
+      "email": "aandrewjason@gmail.com",
+      "Phone": "7506547825",
+      "info_detail": "asasaa",
+      "work": "sadasdasd",
+      "education": "hdfasdgs",
+      "userRenowed": "",
+      "experience": "ajsasa",
+      "certificates": "I AM COOL",
+      "Linkedin_link": "www,google",
+      "github_link": "sadasdasdas",
+      "projets": "SDSAKDS",
+      "Programming_languages": "ASJDSADAS",
+      "other_skills": "SDSADSAD",
+      "begineer": true,
+      "Intermiddent": false,
+      "Advance": false
+    }
+  },
+  {
+    "data": {
+      "skillArr": ["Python"],
+      "userLiked": ["java", "PYTHON", "ReactJs"],
+      "firstname": "vedang",
+      "lastname": "parasnis",
+      "email": "aandrewjason@gmail.com",
+      "Phone": "7506547825",
+      "info_detail": "asasaa",
+      "work": "sadasdasd",
+      "education": "hdfasdgs",
+      "userRenowed": "python",
+      "experience": "ajsasa",
+      "certificates": "I AM COOL",
+      "Linkedin_link": "www,google",
+      "github_link": "sadasdasdas",
+      "projets": "SDSAKDS",
+      "Programming_languages": "ASJDSADAS",
+      "other_skills": "SDSADSAD",
+      "begineer": true,
+      "Intermiddent": false,
+      "Advance": false
+    }
+  },
+  {
+    "data": {
+      "skillArr": [
+        "Accounting",
+        "Adobe After Effects",
+        "Adobe Audition",
+        "Adobe Creative Suite",
+        "Adobe Dreamweaver",
+        "Adobe Fireworks",
+        "Adobe Flash",
+        "Adobe Illustrator",
+        "Adobe Indesign",
+        "Adobe Photoshop"
+      ],
+      "userLiked": ["java", "C#", "Mongo", "Unity", "Flutter"],
+      "firstname": "vedang",
+      "lastname": "parasnis",
+      "email": "aandrewjason@gmail.com",
+      "Phone": "7506547825",
+      "info_detail": "asasaa",
+      "work": "sadasdasd",
+      "education": "hdfasdgs",
+      "userRenowed": "A",
+      "experience": "ajsasa",
+      "certificates": "I AM COOL",
+      "Linkedin_link": "www,google",
+      "github_link": "sadasdasdas",
+      "projets": "SDSAKDS",
+      "Programming_languages": "ASJDSADAS",
+      "other_skills": "SDSADSAD",
+      "begineer": true,
+      "Intermiddent": false,
+      "Advance": false
+    }
+  },
+  {
+    "data": {
+      "skillArr": ["java", "PYTH", "Accountin", "Adobe After Effects"],
+      "userLiked": ["Adobe After Effects", "Maya", "ASP .Net", "Ruby"],
+      "firstname": "vedang",
+      "lastname": "parasnis",
+      "email": "aandrewjason@gmail.com",
+      "Phone": "7506547825",
+      "info_detail": "asasaa",
+      "work": "sadasdasd",
+      "education": "hdfasdgs",
+      "userRenowed": "",
+      "experience": "ajsasa",
+      "certificates": "I AM COOL",
+      "Linkedin_link": "www,google",
+      "github_link": "sadasdasdas",
+      "projets": "SDSAKDS",
+      "Programming_languages": "ASJDSADAS",
+      "other_skills": "SDSADSAD",
+      "begineer": true,
+      "Intermiddent": false,
+      "Advance": false
+    }
+  },
+  {
+    "data": {
+      "skillArr": ["java", "PYTH", "Accounting", "Adobe After Effects"],
+      "userLiked": [],
+      "firstname": "vedang",
+      "lastname": "parasnis",
+      "email": "aandrewjason@gmail.com",
+      "Phone": "7506547825",
+      "info_detail": "asasaa",
+      "work": "sadasdasd",
+      "education": "hdfasdgs",
+      "userRenowed": "",
+      "experience": "ajsasa",
+      "certificates": "I AM COOL",
+      "Linkedin_link": "www,google",
+      "github_link": "sadasdasdas",
+      "projets": "SDSAKDS",
+      "Programming_languages": "ASJDSADAS",
+      "other_skills": "SDSADSAD",
+      "begineer": true,
+      "Intermiddent": false,
+      "Advance": false
+    }
+  },
+  {
+    "data": {
+      "skillArr": [".NET"],
+      "userLiked": ["java", ""],
+      "firstname": "vedang",
+      "lastname": "parasnis",
+      "email": "vedang.parasnis921@gmail.com",
+      "Phone": "7506547825",
+      "info_detail": "vasdasd,as",
+      "work": "asdbsadsa",
+      "education": "asdsad",
+      "userRenowed": ".N"
+    }
+  },
+  {
+    "data": {
+      "skillArr": [".NET"],
+      "userLiked": ["java", "JX"],
+      "firstname": "vedang",
+      "lastname": "parasnis",
+      "email": "vedang.parasnis921@gmail.com",
+      "Phone": "7506547825",
+      "info_detail": "vasdasd,as",
+      "work": "asdbsadsa",
+      "education": "asdsad",
+      "userRenowed": "",
+      "begineer": true,
+      "Intermiddent": false,
+      "Advance": false,
+      "Linkedin_link": "www,google",
+      "github_link": "sadasdasdas",
+      "port_link": "asadad",
+      "projets": "asdasdassad",
+      "Programming_languages": "sadsadsad",
+      "other_skills": "jknaknskas"
+    }
+  },
+  {
+    "data": {
+      "skillArr": [".NET"],
+      "userLiked": ["java", ".N"],
+      "firstname": "vedang",
+      "lastname": "parasnis",
+      "email": "vedang.parasnis921@gmail.com",
+      "Phone": "7506547825",
+      "info_detail": "vasdasd,as",
+      "work": "asdbsadsa",
+      "education": "asdsad",
+      "userRenowed": "",
+      "begineer": true,
+      "Intermiddent": false,
+      "Advance": false,
+      "Linkedin_link": "www,google",
+      "github_link": "sadasdasdas",
+      "port_link": "asadad",
+      "projets": "asdasdassad",
+      "Programming_languages": "sadsadsad",
+      "other_skills": "jknaknskas"
+    }
+  }
+]

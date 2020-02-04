@@ -1,0 +1,110 @@
+
+Kunal Sonawane
+Student
+Regular participant in online competitions held on Codechef. I also like attending Tech Meetups and Hackathons during 
+the weekends. Currently exploring the ﬁelds of Machine Learning and Deep Learning, which seem quite fascinating to me.
+
+
+kunal.sonawane@somaiya.edu                                                                                          
+7738416193
+Kalwa, Thane, Mumbai, India                                                                                             
+         2knal.github.io/
+linkedin.com/in/kunal-sonawane-a3b397113                                                                       
+github.com/2knal
+
+
+EXPERIENCES
+Backend Intern
+ConnectClub Network Pvt Ltd
+06/2019 – 07/2019
+Description
+
+
+
+
+
+
+
+
+Sion, Mumbai, India
+
+SKILLS
+
+Python         C         Git/GitHub         Android Basics Data Structures         Algorithms         JavaScript
+
+Developed a REST API using Node, Express and MongoDB, for both mobile and web client, along with deployment on AWS.
+
+Summer Intern
+K. J. Somaiya College of Engineering
+ExpressJS         Flask
+
+
+PROJECTS
+Honesty (03/2019 – 03/2019)
+Submitted this Project as a part of SIH 2019.
+
+06/2018 – 07/2018
+Description
+Vidyavihar, Mumbai, India
+PWA cum Chatbot, to provide all necessary information about Government sponsored schemes and policies. It also comes 
+with
+
+Developed an Android App for eﬀective interaction between teachers and Students.
+
+
+EDUCATION
+Undergraduate Degree
+K. J. Somaiya College of Engineering
+oﬄine SMS and Call support to furnish the necessary details.
+
+Korusuke (11/2018 – 11/2018)
+Discord Bot made using JDA, which provides latest categorized news along with movie and tv show recommendations and 
+reviews, also memes from r/ProgrammerHumor subreddit.
+
+NewsBuster (10/2018 – 10/2018)
+Submitted this Project as a part of Enroot Mumbai Hackathon.
+
+06/2017 – 05/2021
+Description
+CGPA : 9.59 (till Sem 4, Computer Engineering)
+
+Higher Secondary Degree
+Vidyavihar(E), Mumbai, India
+Web App powered by fake news classiﬁer trained on LIAR Dataset.
+
+Somaiya Classroom (06/2018 – 07/2018)
+A Simple Interactive platform, where students are notiﬁed about vivas, quizzes set by faculty; access to syllabus, 
+course materials, etc.
+
+People’s Education Society, Thane (E)
+06/2015 – 04/2017
+Description
+Scored 92.7% in HSC Board Examinations.
+
+Matriculate Degree
+New English School, Kalwa
+
+
+Mumbai, India
+ACHIEVEMENTS
+Smart India Hackathon 2019 Winner (03/2019 – 03/2019)
+SIH 2019 Grand Finale Winner for Problem statement code: AK5 (Chatbot for EGovernance)
+
+InCTF 2018 (12/2018 – 12/2018)
+Rank 26 among (~ )300 teams, all over India, in Online qualiﬁers.
+
+06/2003 – 04/2015
+Description
+Scored 96.4% in SSC Board Examinations.
+Thane, Mumbai, India
+National SKC Abacus Competition
+2007, 2008 : 2nd Rank; 2010: 1st Rank
+
+
+INTERESTS
+
+Machine Learning          Deep Learning          Blockchain
+
+Competitive Programming          Football          EDMs
+
+NLP          Open Source Contribution

@@ -1,0 +1,5 @@
+server/node_modules
+clientform/node_modules
+node_modules
+server/config
+clientform/src/configs
