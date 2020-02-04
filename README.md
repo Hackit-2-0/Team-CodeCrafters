@@ -56,10 +56,18 @@ Machines are better at certain things such as:
 
 ## Tech stack
 
-:one: **Client Side** :  ReactJs, Firebase, React Hooks
-:two: **Server Side** :  Flask, Node JS, cheerio(web Scraper), request
-:three: **ML Model** : Scikit-learn, nltk, ml5.js(npm module)
-:four: **Database and Storage** : Firebase Cloud Firestore 
+:one: **Client Side** :  ReactJs, Firebase, React Hooks.
+
+:two: **Server Side** :  Flask, Node JS, cheerio(web Scraper), request .
+
+:three: **ML Model** : Scikit-learn, nltk, ml5.js(npm module) .
+
+:four: **Database and Storage** : Firebase Cloud Firestore .
+
+### `npm start`
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Contributors
 
