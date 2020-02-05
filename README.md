@@ -109,7 +109,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ## You tube video
 
 <div align="center" style='width:500px'> 
-    <a href="https://youtu.be/6Po6zL7kdd8"><img src="./assets/thumbnail.jpg"></a>
+    <a href="https://youtu.be/6Po6zL7kdd8"><img src="./assets/thumbnail.JPG"></a>
 
 </div>
 
