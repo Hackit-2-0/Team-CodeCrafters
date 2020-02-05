@@ -108,15 +108,9 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## You tube video
 
-<div align="center"> 
+<div align="center" style='width:500px'> 
+    <a href="https://youtu.be/6Po6zL7kdd8"><img src="./assets/thumbnail.jpg"></a>
 
-<div class="embed-responsive embed-responsive-16by9">
-  <iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/6Po6zL7kdd8" 
-    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-  </iframe>
-</div>
 </div>
 
 ## Contributors
