@@ -7,12 +7,13 @@
 
   - [Problem-Statement](#Problem-Statement)
   - [Need of the Project](#Need-of-the-Project)
-  - [How ML Helps Us?](#How-ML-Helps-Us?)
-  - [Tasks](#task)
+  - [How ML Helps Us?](#How-ML-Helps-Us-?)
+  - [Tasks](#Tasks)
   - [System Architecture](#System-Architecture)
   - [Tech stack](#Tech-stack)
   - [Folder Structure](#Folder-Structure)
-  - [Contributors](#contribution)
+  - [You tube video](#You-tube-video)
+  - [Contributors](#Contributors)
 
 ## Problem Statement
 
@@ -87,6 +88,15 @@ Machines are better at certain things such as:
 
 > $ cd clientform
 
+**install node modules**
+
+> $ npm i 
+
+**npm start**
+
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
 > $ npm start 
 
 **Start Server**
@@ -95,10 +105,13 @@ Machines are better at certain things such as:
 
 > $ node app.js
 
-### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## You tube video
+
+<div align="center" style='width:500px'> 
+    <a href="https://youtu.be/6Po6zL7kdd8"><img src="./assets/thumbnail.jpg"></a>
+
+</div>
 
 ## Contributors
 
