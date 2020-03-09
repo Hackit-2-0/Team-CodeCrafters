@@ -113,11 +113,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
     <a href="https://youtu.be/6Po6zL7kdd8"><img src="./assets/thumbnail.jpg"></a>
 =======
     <a href="https://youtu.be/6Po6zL7kdd8"><img src="./assets/thumbnail.JPG"></a>
->>>>>>> 0b8de536f198b9a9f2c8ea70392a88d1c8191ae5
+
 
 </div>
 
-**Licensed under the [MIT License](LICENSE)** 
+
+## Licensed under the [MIT License](LICENSE) 
+
 
 ## Contributors
 
