@@ -12,7 +12,9 @@
   - [System Architecture](#System-Architecture)
   - [Tech stack](#Tech-stack)
   - [Folder Structure](#Folder-Structure)
+  - [Clone git repository](#clone-git-repository)
   - [You tube video](#You-tube-video)
+  - [License](#license)
   - [Contributors](#Contributors)
 
 ## Problem Statement
@@ -66,9 +68,11 @@ Machines are better at certain things such as:
 
 :four: **Database and Storage** : Firebase Cloud Firestore .
 
-**Clone git repository**
+## **Clone git repository**
 
-> Git clone "[https://github.com/Hackit-2-0/Team-CodeCrafters](https://github.com/Hackit-2-0/Team-CodeCrafters)"
+```sh
+Git clone "[https://github.com/Hackit-2-0/Team-CodeCrafters](https://github.com/Hackit-2-0/Team-CodeCrafters)"
+```
 
 ## Folder Structure
 
@@ -86,44 +90,52 @@ Machines are better at certain things such as:
 
 **Render React UI**
 
-> $ cd clientform
+```sh
+$ cd clientform
+```
 
 **install node modules**
 
-> $ npm i 
+```sh
+$ npm i 
+```
 
 **npm start**
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-> $ npm start 
-
+```sh
+$ npm start 
+```
 **Start Server**
 
-> $ cd server
+```sh
+$ cd server
 
-> $ node app.js
-
+$ node app.js
+```
 
 ## You tube video
 
 <div align="center" style='width:500px'> 
-    <a href="https://youtu.be/6Po6zL7kdd8"><img src="./assets/thumbnail.JPG"></a>
+    <a href="https://youtu.be/6Po6zL7kdd8"><img src="./assets/thumbnail.JPG" width="70%"></a>
 </div>
 
 
-## Licensed under the [MIT License](LICENSE) 
+## License
+
+[MIT License](LICENSE) 
 
 
 ## Contributors
 
-| Name    | Email :e-mail:  |
-|---------| ------------------  |
-| Vedang parasnis  | vedang.parasnis@somaiya.edu|
-| Priya mane  | priya.hm@somaiya.edu|
-| Pratik merchant  | pratik.merchant@somaiya.edu|
-| Hritik Jaiswal  | hritik.jaiswal@somaiya.edu|
+| Name            | Email :e-mail:              |
+| --------------- | --------------------------- |
+| Vedang parasnis | vedang.parasnis@somaiya.edu |
+| Priya mane      | priya.hm@somaiya.edu        |
+| Pratik merchant | pratik.merchant@somaiya.edu |
+| Hritik Jaiswal  | hritik.jaiswal@somaiya.edu  |
 
 <h3 align="center"><b>Developed with :heart: by <a href="https://github.com/vedangparasnis">Vedang Parasnis </a> , <a href="https://github.com/pugnator-12"> Priya mane</a> , <a href="https://github.com/pratik6725">Pratik merchant</a> and <a href="https://github.com/hritik5102">Hritik jaiswal</a>.</b></h1>
 
