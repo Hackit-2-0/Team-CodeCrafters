@@ -3,26 +3,26 @@
     <h3>Hackit 2.0</h3>
 </div>
 
-## Team name : *CodeCrafters* :sunglasses:
+## Team Name : *CodeCrafters* :sunglasses:
 
-  - [Problem-Statement](#Problem-Statement)
-  - [Need of the Project](#Need-of-the-Project)
+  - [Problem Statement](#Problem-Statement)
+  - [Need of the project](#Need-of-the-Project)
   - [How ML Helps Us?](#How-ML-Helps-Us-?)
   - [Tasks](#Tasks)
   - [System Architecture](#System-Architecture)
-  - [Tech stack](#Tech-stack)
+  - [Tech Stack](#Tech-stack)
   - [Folder Structure](#Folder-Structure)
   - [Clone git repository](#clone-git-repository)
-  - [You tube video](#You-tube-video)
+  - [YouTube Video](#You-tube-video)
   - [License](#license)
   - [Contributors](#Contributors)
 
-## Problem Statement
+## Problem Statement:
 
 Recruitment Assisting platform which will help recruiters filter out resumes for a particular job profile.
 By Team CodeCrafters
 
-## Need of the Project
+## Need of the Project:
 
 Motto- By evaluating all candidates against the same screening standards, … the process will be more objective, fair and accurate.
 
@@ -58,7 +58,7 @@ Machines are better at certain things such as:
     <img src='./assets/architecture.JPG'>
 </div>
 
-## Tech stack
+## Tech Stack
 
 :one: **Client Side** :  ReactJs, Firebase, React Hooks.
 
@@ -132,10 +132,10 @@ $ node app.js
 
 | Name            | Email :e-mail:              |
 | --------------- | --------------------------- |
-| Vedang parasnis | vedang.parasnis@somaiya.edu |
-| Priya mane      | priya.hm@somaiya.edu        |
-| Pratik merchant | pratik.merchant@somaiya.edu |
+| Vedang Parasnis | vedang.parasnis@somaiya.edu |
+| Priya Mane      | priya.hm@somaiya.edu        |
+| Pratik Merchant | pratik.merchant@somaiya.edu |
 | Hritik Jaiswal  | hritik.jaiswal@somaiya.edu  |
 
-<h3 align="center"><b>Developed with :heart: by <a href="https://github.com/vedangparasnis">Vedang Parasnis </a> , <a href="https://github.com/pugnator-12"> Priya mane</a> , <a href="https://github.com/pratik6725">Pratik merchant</a> and <a href="https://github.com/hritik5102">Hritik jaiswal</a>.</b></h1>
+<h3 align="center"><b>Developed with :heart: by <a href="https://github.com/vedangparasnis">Vedang Parasnis </a> , <a href="https://github.com/pugnator-12"> Priya Mane</a> , <a href="https://github.com/pratik6725">Pratik Merchant</a> and <a href="https://github.com/hritik5102">Hritik Jaiswal</a>.</b></h1>
 
