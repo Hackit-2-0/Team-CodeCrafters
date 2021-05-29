@@ -71,22 +71,17 @@ Machines are better at certain things such as:
 ## **Clone git repository**
 
 ```sh
-Git clone "[https://github.com/Hackit-2-0/Team-CodeCrafters](https://github.com/Hackit-2-0/Team-CodeCrafters)"
+$ git clone "https://github.com/Hackit-2-0/Team-CodeCrafters"
 ```
 
 ## Folder Structure
 
-:file_folder: Team-CodeCrafters :
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:file_folder: assets.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:file_folder: Classificatioons.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:file_folder: clientform.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:file_folder: server.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:file_folder: github-finder. 
+:file_folder: Team-CodeCrafters :<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:file_folder: assets <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:file_folder: Classificatioons<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:file_folder: clientform<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:file_folder: server<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:file_folder: github-finder 
 
 **Render React UI**
 
